@@ -1,0 +1,994 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "CAPIF-CF",
+      "image": "https://files.slicce.co/Good/CAPIF-CF.jpg",
+      "category": "Engine",
+      "family": "Network Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Common API Framework Core Function, defined by 3GPP, standardizes northbound service APIs by managing invokers, registration, discovery, and access control.",
+      "url": "https://www.slicce.co/products/capif-core-function"
+    },
+    {
+      "id": "prod-2",
+      "name": "CGF-NF",
+      "image": "https://files.slicce.co/Good/CGF-NF.jpg",
+      "category": "Engine",
+      "family": "Network Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Charging Gateway Function is a central part of 5G offline charging, bridging Charging Data Functions (CDFs) and the billing system.",
+      "url": ""
+    },
+    {
+      "id": "prod-3",
+      "name": "SMS-CF",
+      "image": "https://files.slicce.co/Good/SMS-CF.jpg",
+      "category": "Engine",
+      "family": "Network Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "A scalable SMS center with a RESTful API for easy integration across GSM, UMTS, 4G, and 5G networks.",
+      "url": ""
+    },
+    {
+      "id": "prod-4",
+      "name": "CAP-AEF",
+      "image": "https://files.slicce.co/Good/CAP-AEF.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G",
+      "description": "Supports CAMEL v1–v4 APIs for intelligent legacy mobile services, exposing service control, switching, and specialized resource function APIs.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/cap-aef"
+    },
+    {
+      "id": "prod-5",
+      "name": "MAP-AEF",
+      "image": "https://files.slicce.co/Good/MAP-AEF.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G",
+      "description": "Exposes GSM-MAP v1–v3 APIs for signaling and mobile app functions like call control and location management within GSM networks.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/map-aef"
+    },
+    {
+      "id": "prod-6",
+      "name": "USSD-AEF",
+      "image": "https://files.slicce.co/Good/USSD-AEF.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G",
+      "description": "Exposes GSM-MAP v1–v3 APIs for USSD, enabling interactive text services on legacy 3G devices.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/ussd-aef"
+    },
+    {
+      "id": "prod-7",
+      "name": "INAP-AEF",
+      "image": "https://files.slicce.co/Good/INAP-AEF.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G",
+      "description": "Exposes INAP CS1/CS1+ APIs to enable intelligent services on legacy networks, including control, switching, and specialized resource function APIs.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/inap-aef"
+    },
+    {
+      "id": "prod-8",
+      "name": "ISC-AEF",
+      "image": "https://files.slicce.co/Good/ISC-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "4G, 5G",
+      "description": "Exposes IMS service control APIs for intelligent IMS and VoLTE services, including Control Function and Media Resource Function APIs.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/4g-packet-switched/isc-aef"
+    },
+    {
+      "id": "prod-9",
+      "name": "DMT-AEF",
+      "image": "https://files.slicce.co/Good/DMT-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "4G, 5G",
+      "description": "Exposes DIAMETER APIs for key interfaces like S6a/S6d, Sh, Cx, and Gy, enabling common applications via REST APIs",
+      "url": "https://www.slicce.co/products/api-exposure-functions/4g-packet-switched/dmt-aef"
+    },
+    {
+      "id": "prod-10",
+      "name": "MTC-AEF",
+      "image": "https://files.slicce.co/Good/MTC-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "4G, 5G",
+      "description": "Exposes 4G/5G Network Exposure APIs, integrating SCEF and NEF elements to support NIDD, BDT, and Device Triggering.",
+      "url": ""
+    },
+    {
+      "id": "prod-11",
+      "name": "CDS-AEF",
+      "image": "https://files.slicce.co/Good/CDS-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "The Common Data Store AEF provides a common API for application functions and services to store documents in an indexed NOSQL database.",
+      "url": ""
+    },
+    {
+      "id": "prod-12",
+      "name": "AAA-AEF",
+      "image": "https://files.slicce.co/Good/AAA-AEF.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Exposes DIAMETER APIs for Gx, Gy and Ro interfaces and allows implementation of online charging systems and policy charging rules using REST APIs.",
+      "url": ""
+    },
+    {
+      "id": "prod-13",
+      "name": "CPAAS-AEF",
+      "image": "https://files.slicce.co/Good/CPAAS-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Exposes enterprise unified communication APIs to embed voice, messaging and presence services into business applications. Relies on SIP/RTP and SMPP.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/cpaas-aef"
+    },
+    {
+      "id": "prod-14",
+      "name": "SMS-AEF",
+      "image": "https://files.slicce.co/Good/SMS-AEF.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Exposes GSM-MAP v1/v2/v3 APIs, DIAMETER SGd, SIP ISC and SMPP for SMS and allows the implementation of services requiring SMS exchange.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/sms-aef"
+    },
+    {
+      "id": "prod-15",
+      "name": "MLC-AEF",
+      "image": "https://files.slicce.co/Good/MLC-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Mobile Location Center API Exposure Function supports 3G, 4G, and 5G location interfaces, exposing a unified API for handset geolocation.",
+      "url": ""
+    },
+    {
+      "id": "prod-16",
+      "name": "SCS-AEF",
+      "image": "https://files.slicce.co/Good/SCS-AEF2.jpg",
+      "category": "Engine",
+      "family": "API Exposure Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Signaling Capture Services AEF enables on-demand network captures, ongoing metrics, KPIs, and CDRs for monitoring functions on a specific worker node.",
+      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/scs-aef"
+    },
+    {
+      "id": "prod-17",
+      "name": "NRD-AF",
+      "image": "https://files.slicce.co/Good/NRD-AF2.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Zero-Code Visual Service Creation lets users build communication services via a drag-and-drop interface—no coding required.",
+      "url": "https://www.slicce.co/products/application-functions/nrd-af"
+    },
+    {
+      "id": "prod-18",
+      "name": "TLS-AF",
+      "image": "https://files.slicce.co/Good/TLS-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Number Translation Service redirects dialed numbers to alternate destinations, allowing flexible routing and easier service access.",
+      "url": ""
+    },
+    {
+      "id": "prod-19",
+      "name": "BWL-AF",
+      "image": "https://files.slicce.co/Good/BWL-AF2.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Blacklist/Whitelist lets users control who can contact them by blocking unwanted callers and allowing trusted numbers.",
+      "url": ""
+    },
+    {
+      "id": "prod-20",
+      "name": "OCR-AF",
+      "image": "https://files.slicce.co/Good/OCR-AF2.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Optimal Call Routing automatically sends calls to the best destination based on cost, quality, location, or agent availability for efficient service and improved CX",
+      "url": ""
+    },
+    {
+      "id": "prod-21",
+      "name": "MRG-AF",
+      "image": "https://files.slicce.co/Good/MRG-AF2.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Multi Ring: simultaneously rings multiple devices or numbers -such as desk phone, mobile, smartwatch or softphone - so the user never misses an incoming call.",
+      "url": ""
+    },
+    {
+      "id": "prod-22",
+      "name": "DID-AF",
+      "image": "https://files.slicce.co/Good/DID-AF2.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Multi DID (Direct Inward Dialing) lets users manage multiple numbers on one account, simplifying separation of personal, business, or departmental calls.",
+      "url": ""
+    },
+    {
+      "id": "prod-23",
+      "name": "RBT-AF",
+      "image": "https://files.slicce.co/Good/RBT-AF2.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Colored Ringback Tone lets subscribers replace the standard ringing sound with personalized music, tones, or messages.",
+      "url": ""
+    },
+    {
+      "id": "prod-24",
+      "name": "ICS-AF",
+      "image": "https://files.slicce.co/Good/ICS-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Intelligent Call Screening filters incoming calls in real time to block spam, fraud, and unwanted callers, allowing only trusted contacts through.",
+      "url": ""
+    },
+    {
+      "id": "prod-25",
+      "name": "MCN-AF",
+      "image": "https://files.slicce.co/Good/MCN-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Missed Call Notification instantly alerts users of unanswered calls through SMS, email, or app notifications, ensuring no important call goes unnoticed.",
+      "url": ""
+    },
+    {
+      "id": "prod-26",
+      "name": "REC-AF",
+      "image": "https://files.slicce.co/Good/REC-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Call Recording and Transcription captures voice calls, stores them securely, and converts speech into searchable text for easy review or delivery to email.",
+      "url": ""
+    },
+    {
+      "id": "prod-27",
+      "name": "VPN-AF",
+      "image": "https://files.slicce.co/Good/VPN-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Virtual Private Network provides secure, encrypted connectivity over public or untrusted networks, allowing users to access enterprise peers using short codes.",
+      "url": ""
+    },
+    {
+      "id": "prod-28",
+      "name": "BRD-AF",
+      "image": "https://files.slicce.co/Good/BRD-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Branded Calling enhances call trust by displaying the business name, logo, and reason for the call on the recipient's phone screen.",
+      "url": ""
+    },
+    {
+      "id": "prod-29",
+      "name": "ACD-AF",
+      "image": "https://files.slicce.co/Good/ACD-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "Automated Call Distribution; automatically routes incoming calls to the most appropriate agent, department, or service based on predefined rules, skills, or availability.",
+      "url": ""
+    },
+    {
+      "id": "prod-30",
+      "name": "MML-AF",
+      "image": "https://files.slicce.co/Good/MML-AF.jpg",
+      "category": "Engine",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "SMS 2 Email/ VoiceMail 2 Email; converts incoming SMS messages or voicemail messages into emails and delivers them directly to the users while not available.",
+      "url": ""
+    },
+    {
+      "id": "prod-31",
+      "name": "CHF-IWF",
+      "image": "https://files.slicce.co/Good/CHF-IWF.jpg",
+      "category": "Engine",
+      "family": "Interworking Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "The Charging Interworking function provides inter-working for 3G/4G/5G online charging interfaces. It can be configured to perform the following conversion scenarios",
+      "url": "https://www.slicce.co/products/interworking-functions/charging-iwf"
+    },
+    {
+      "id": "prod-32",
+      "name": "IMS-IWF",
+      "image": "https://files.slicce.co/Good/IMS-IWF.jpg",
+      "category": "Engine",
+      "family": "Interworking Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "The IMS Interworking function connects IMS, VoLTE, VoNR, and 3G CS voice/messaging services, enabling configurable conversion between them.",
+      "url": "https://www.slicce.co/products/interworking-functions/ip-multimedia-iwf"
+    },
+    {
+      "id": "prod-33",
+      "name": "SMS-IWF",
+      "image": "https://files.slicce.co/Good/SMS-IWF.jpg",
+      "category": "Engine",
+      "family": "Interworking Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "The Short Message Interworking Function converts SMS between 3G, 4G, and 5G networks, and can be configured for various conversion scenarios.",
+      "url": "https://www.slicce.co/products/interworking-functions/short-message-iwf"
+    },
+    {
+      "id": "prod-34",
+      "name": "SS7-LB",
+      "image": "https://files.slicce.co/Good/SMS-IWF.jpg",
+      "category": "Engine",
+      "family": "Load Balancers",
+      "networks": "3G",
+      "description": "Manages M3UA IPSPs, SGPs, or ASPs, balancing SCCP traffic by GT or SSN. Supports GTT, enabling centralized SIGTRAN entry and traffic distribution across microservices.",
+      "url": ""
+    },
+    {
+      "id": "prod-35",
+      "name": "SIP-LB",
+      "image": "https://files.slicce.co/Good/SIP-LB.jpg",
+      "category": "Engine",
+      "family": "Load Balancers",
+      "networks": "4G, 5G",
+      "description": "Uses rules to route new SIP sessions, ensures all messages with the same Call-ID go to the same destination, enabling centralized SIP traffic entry and distribution across microservices.",
+      "url": ""
+    },
+    {
+      "id": "prod-36",
+      "name": "DMT-LB",
+      "image": "https://files.slicce.co/Good/DMT-LB2.jpg",
+      "category": "Engine",
+      "family": "Load Balancers",
+      "networks": "4G, 5G",
+      "description": "Uses rules to route initial session requests, ensures messages with the same Session-Id go to the same destination, enabling centralized DIAMETER traffic entry and distribution across DIAMETER microservices.",
+      "url": ""
+    },
+    {
+      "id": "prod-37",
+      "name": "GTP-LB",
+      "image": "https://files.slicce.co/Good/GTP-LB.jpg",
+      "category": "Engine",
+      "family": "Load Balancers",
+      "networks": "3G, 4G, 5G",
+      "description": "Manages the control plane (GTP-C v1/v2), selecting routes, modifying APN/IMSI, and forwarding session messages to PGW-C or SMF. It rewrites its IP for NAT on the GRX control plane, enabling distributed data sessions to localized PGW-Us or containerized UPFs.",
+      "url": ""
+    },
+    {
+      "id": "prod-38",
+      "name": "Call Forwarding Signal",
+      "image": "https://files.slicce.co/Good/Call%20Forwarding%20Signal.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Call Forwarding Signal\" API provides the API consumer with information about the status of the Call Forwarding Service on a specific phone number. The API consumer invokes the Call Forwarding Signal API to determine if a specific phone number has an active \"call forwarding\" setup, alter or cancel the current call forwarding settings..",
+      "url": ""
+    },
+    {
+      "id": "prod-39",
+      "name": "Customer Insight",
+      "image": "https://files.slicce.co/Good/Customer%20Insight.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Customer Insights\" API is designed to provide financial institutions with additional insights into their customers' behavior based on their interactions with telecom operators.\nBy integrating the Customer Insights API, banks can retrieve relevant behavioral data from a customer's telecom provider, allowing them to make more informed decisions when approving microloans or assessing financial risk.",
+      "url": ""
+    },
+    {
+      "id": "prod-40",
+      "name": "Device Swap",
+      "image": "https://files.slicce.co/Good/Device%20Swap.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Device Swap\" API is designed to provide real-time insights into whether a SIM card associated with a user's phone number has been transferred to a different physical device. This API enhances security, fraud detection, and regulatory compliance by offering clear and structured device swap event information.",
+      "url": ""
+    },
+    {
+      "id": "prod-41",
+      "name": "Know Your Customer Age Verification",
+      "image": "https://files.slicce.co/Good/KYC%20Age%20verification.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Know Your Customer Age Verification\" API is used to validate a user's age based on verified data managed by their Mobile Network Operator (MNO). This API enables digital platforms such as streaming services, gaming sites, online marketplaces, and adult content providers to comply with regulatory requirements while ensuring a seamless and privacy‑compliant user experience.",
+      "url": ""
+    },
+    {
+      "id": "prod-42",
+      "name": "Know Your Customer Fill In",
+      "image": "https://files.slicce.co/Good/KYC%20Fill%20In.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Know Your Customer Fill In\" API is used to request and receive information that has been verified by the end user's Mobile Network Operator (MNO) in their KYC records.\nThe information can include phone number, name, postal code, address, birthdate, email address etc",
+      "url": ""
+    },
+    {
+      "id": "prod-43",
+      "name": "Know Your Customer Match",
+      "image": "https://files.slicce.co/Good/KYC%20Match.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Know Your Customer Match\" API provides the ability to compare the information the API customer has for a particular user with that on file (and verified) by the user's Mobile Network Operator (MNO) in their own KYC records.\nThe information can include phone number, name, postal code, address, birthdate, email address etc. No Personal Identifiable Information (PII) is returned.",
+      "url": ""
+    },
+    {
+      "id": "prod-44",
+      "name": "Know Your Customer Tenure",
+      "image": "https://files.slicce.co/Good/KYC%20Tenure.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Know Your Customer Tenure\" API is designed to verify how long a phone number has been active with a Mobile Network Operator (MNO). By confirming the tenure of a subscription, this API helps assess user reliability, strengthen fraud detection, and support secure onboarding, financial transactions, and authentication processes.",
+      "url": ""
+    },
+    {
+      "id": "prod-45",
+      "name": "Number Recycling",
+      "image": "https://files.slicce.co/Good/Number%20Recycling.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Number Recycling\" API allows businesses to verify whether a phone number has changed ownership since a given date. This is essential for security-sensitive applications like authentication and customer communication, where ensuring that a phone number still belongs to the intended user is critical.",
+      "url": ""
+    },
+    {
+      "id": "prod-46",
+      "name": "Number Verification",
+      "image": "https://files.slicce.co/Good/Number%20verification.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Number Verification\" API is used to confirm that a mobile phone number belongs to the user's device, leveraging network or SIM‑based mechanisms. This API simplifies authentication and onboarding by eliminating manual steps such as SMS codes, while enhancing security, fraud prevention, and user experience across industries like banking, e‑commerce, and digital services",
+      "url": ""
+    },
+    {
+      "id": "prod-47",
+      "name": "One Time Password SMS",
+      "image": "https://files.slicce.co/Good/One%20Time%20Pwd%20SMS.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"One‑Time Password SMS\" API is used to deliver secure, time‑limited codes via SMS in order to provide proof of possession of a mobile phone number. This API strengthens authentication and onboarding by ensuring that the user can be reliably linked to their number, while enhancing security and user experience across digital services.",
+      "url": ""
+    },
+    {
+      "id": "prod-48",
+      "name": "Scam Signal",
+      "image": "https://files.slicce.co/Good/Scam%20Signal.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Scam Signal\" API is used to detect and block impersonation scams, including Authorized Push Payment (APP) fraud. By leveraging operator network intelligence, this API enables businesses to protect customers in real time, reduce financial losses, and strengthen trust across industries such as banking, e‑commerce, and government services.",
+      "url": ""
+    },
+    {
+      "id": "prod-49",
+      "name": "Sim Swap",
+      "image": "https://files.slicce.co/Good/Sim%20Swap.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"SIM Swap\" API is used to provide real‑time information on whether a SIM card linked to a user's phone number has recently been replaced. This API enhances fraud detection and regulatory compliance by helping digital services identify potential account takeovers, secure transactions, and protect users against identity theft.",
+      "url": ""
+    },
+    {
+      "id": "prod-50",
+      "name": "Sim Swap Subscriptions",
+      "image": "https://files.slicce.co/Good/Sim%20Swap%20subsciption.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"SIM Swap Subscriptions\" API is used to subscribe to SIM swap events for mobile phone numbers and receive real-time notifications when a swap occurs. It enables developers to proactively monitor swaps, strengthen security, prevent fraud, and improve user experience during account management and transaction validation. Unlike the Sim Swap API (pull model where information is requested as needed), this API provides push-based updates sent directly to the application when a SIM swap happens..",
+      "url": ""
+    },
+    {
+      "id": "prod-51",
+      "name": "Verified Caller",
+      "image": "https://files.slicce.co/Good/Verified%20Caller.jpg",
+      "category": "API",
+      "family": "Auth. & Fraud Prevention",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Verified Caller\" API is used to display operator‑certified business information, including text or multimedia, on the recipient's phone screen before answering a call. This API helps enterprises reduce fraud, increase call connection rates, and build customer trust across industries such as government, finance, healthcare, logistics, and education.",
+      "url": ""
+    },
+    {
+      "id": "prod-52",
+      "name": "Geofencing Subscriptions",
+      "image": "https://files.slicce.co/Good/Geofencing%20Subscriptions.jpg",
+      "category": "API",
+      "family": "Location Services",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Geofencing Subscriptions\" API is used to subscribe to location‑based events and receive real‑time notifications when a mobile device enters or leaves predefined geographic areas. This API enables digital services to deliver contextual experiences and support use cases such as logistics tracking, customer engagement, and personalized services.",
+      "url": ""
+    },
+    {
+      "id": "prod-53",
+      "name": "Location Retrieval",
+      "image": "https://files.slicce.co/Good/Location%20Retrieval.jpg",
+      "category": "API",
+      "family": "Location Services",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Location Retrieval\" API is used to obtain the real‑time geographical location of a mobile device based on network information. This API enables digital services to enhance security, support fraud prevention, and deliver location‑based experiences such as emergency response, logistics tracking, and personalized content, while ensuring privacy and regulatory compliance.",
+      "url": ""
+    },
+    {
+      "id": "prod-54",
+      "name": "Location Verification",
+      "image": "https://files.slicce.co/Good/Location%20verification.jpg",
+      "category": "API",
+      "family": "Location Services",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Location Verification\" API confirms whether a mobile device is located within a specified geographic area during a given time interval. It enables organizations to validate user presence for secure transactions, access control, and location‑based services, while ensuring privacy through anonymized network data.",
+      "url": ""
+    },
+    {
+      "id": "prod-55",
+      "name": "Population Density Data",
+      "image": "https://files.slicce.co/Good/Population%20Density%20data.jpg",
+      "category": "API",
+      "family": "Location Services",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Population Density Data\" API provides aggregated information on the concentration of mobile devices within a geographic area during a specific time interval. It enables organizations to understand population distribution and movement patterns, supporting use cases such as emergency response, event planning, retail analysis, and urban development, while ensuring privacy through anonymized data.",
+      "url": ""
+    },
+    {
+      "id": "prod-56",
+      "name": "Region Device Count",
+      "image": "https://files.slicce.co/Good/Region%20Device%20Count.jpg",
+      "category": "API",
+      "family": "Location Services",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Region Device Count\" API retrieves aggregated data on active mobile devices within a defined geographic area during a specific time interval. It helps organizations analyze population distribution, plan resources, and deliver location‑based services while preserving privacy through anonymized data. Typical uses include emergency rescue, estimating audiences for outdoor live streaming, retail foot‑traffic analysis, and urban planning.",
+      "url": ""
+    },
+    {
+      "id": "prod-57",
+      "name": "WebRTC Call Handling",
+      "image": "https://files.slicce.co/Good/WebRTC%20Call%20Handling.jpg",
+      "category": "API",
+      "family": "Communication Services",
+      "networks": "4G, 5G",
+      "description": "The \"WebRTC Call Handling\" API enables applications to create, recover, update, and terminate one‑to‑one voice and video sessions using WebRTC technology. It provides developers with direct control over session lifecycle management, ensuring reliable real‑time communication experiences across web and mobile platforms.",
+      "url": ""
+    },
+    {
+      "id": "prod-58",
+      "name": "WebRTC Event Subscription",
+      "image": "https://files.slicce.co/Good/WebRTC%20Event%20Subscription.jpg",
+      "category": "API",
+      "family": "Communication Services",
+      "networks": "4G, 5G",
+      "description": "The \"WebRTC Event Subscription\" API allows applications to receive real‑time notifications about session activity, including updates to ongoing calls and requests for new incoming sessions. By subscribing to these events, services can react instantly to changes in communication state, improving responsiveness and user experience.",
+      "url": ""
+    },
+    {
+      "id": "prod-59",
+      "name": "WebRTC Registration",
+      "image": "https://files.slicce.co/Good/WebRTC%20Registration.jpg",
+      "category": "API",
+      "family": "Communication Services",
+      "networks": "4G, 5G",
+      "description": "The \"WebRTC Registration\" API manages client registration and connectivity with the operator's IMS (IP Multimedia Subsystem) network. It ensures that devices are properly authenticated and connected before initiating or receiving audio and video sessions, enabling secure and seamless integration of WebRTC services with telecom infrastructure.",
+      "url": ""
+    },
+    {
+      "id": "prod-60",
+      "name": "Application Profiles",
+      "image": "https://files.slicce.co/Good/Application%20Profiles.jpg",
+      "category": "API",
+      "family": "Communication Quality",
+      "networks": "4G, 5G",
+      "description": "The \"Application Profiles\" API enables developers to share essential information about their applications that is relevant for network and CAMARA APIs decision-making. Currently, it focuses on defining network quality thresholds and compute resource requirements needed by the application.",
+      "url": ""
+    },
+    {
+      "id": "prod-61",
+      "name": "Connectivity Insights",
+      "image": "https://files.slicce.co/Good/Connectivity%20Insight.jpg",
+      "category": "API",
+      "family": "Communication Quality",
+      "networks": "4G, 5G",
+      "description": "The \"Connectivity Insights\" API provides visibility into current network quality for a given user session. Developers can check if application requirements are met and adapt accordingly—such as lowering video resolution, adjusting game parameters, or requesting a boost via Quality on Demand. It is used in streaming, gaming, remote control systems, and AI video analytics to ensure reliable performance.",
+      "url": ""
+    },
+    {
+      "id": "prod-62",
+      "name": "Connectivity Insights Subscriptions",
+      "image": "https://files.slicce.co/Good/Connectivity%20Insight%20Subscriptions.jpg",
+      "category": "API",
+      "family": "Communication Quality",
+      "networks": "4G, 5G",
+      "description": "The \"Connectivity Insights Subscriptions\" API extends Connectivity Insights by enabling continuous monitoring through event notifications. Applications receive alerts when network conditions change, allowing real‑time adaptation. This supports scenarios like streaming platforms adjusting quality dynamically, drones or robots adapting control parameters, and surveillance systems maintaining reliable detection.",
+      "url": ""
+    },
+    {
+      "id": "prod-63",
+      "name": "QoS Profiles",
+      "image": "https://files.slicce.co/Good/QoS%20Profiles.jpg",
+      "category": "API",
+      "family": "Communication Quality",
+      "networks": "4G, 5G",
+      "description": "The \"QoS Profiles\" API offers predefined sets of network performance characteristics (latency, throughput, priority) identified by unique names. Developers can discover available profiles, retrieve details, and select the right one for their application traffic. Typical uses include industrial IoT, VR/gaming, live streaming, autonomous driving, telemedicine, and VoIP services.",
+      "url": ""
+    },
+    {
+      "id": "prod-64",
+      "name": "QoS Provisioning",
+      "image": "https://files.slicce.co/Good/QoS%20Provisioning.jpg",
+      "category": "API",
+      "family": "Communication Quality",
+      "networks": "4G, 5G",
+      "description": "The \"QoS Provisioning\" API allows developers to assign a specific QoS profile to a device indefinitely. Once provisioned, the network applies the requested profile whenever the device connects, until the provisioning is deleted. It supports scenarios like IoT sensors, VR/gaming, telemedicine, remote work, and autonomous vehicles, ensuring stable latency and prioritized throughput.",
+      "url": ""
+    },
+    {
+      "id": "prod-65",
+      "name": "Quality on Demand",
+      "image": "https://files.slicce.co/Good/Quality%20on%20Demand.jpg",
+      "category": "API",
+      "family": "Communication Quality",
+      "networks": "4G, 5G",
+      "description": "The \"Quality on Demand\" API enables developers to request temporary QoS sessions for specific data flows, ensuring stable latency or prioritized throughput. It abstracts network complexity and supports session creation, querying, deletion, and notifications. Use cases include industrial IoT, immersive gaming, live streaming, telemedicine, VoIP, and enterprise applications requiring high‑quality connectivity.",
+      "url": ""
+    },
+    {
+      "id": "prod-66",
+      "name": "Connected Network Type",
+      "image": "https://files.slicce.co/Good/Connected%20Network%20Type.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Connected Network Type\" API allows applications to query the type of mobile network a device is currently connected to (2G, 3G, 4G, or 5G), along with the time of the last update. This enables real‑time decisions about communication and service delivery. Typical uses include emergency services adapting communication methods, customer support platforms choosing SMS when bandwidth is low, and IoT systems adjusting data transfer frequency.",
+      "url": ""
+    },
+    {
+      "id": "prod-67",
+      "name": "Connected Network Type Subscriptions",
+      "image": "https://files.slicce.co/Good/Connected%20Network%20Type%20Subscription.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Connected Network Type Subscriptions\" API provides real‑time notifications when a device's connectivity changes (e.g., switching between 2G, 3G, 4G, 5G, or UNKNOWN). Instead of polling, applications receive push updates to react instantly. Use cases include emergency services adjusting communication channels, customer support platforms switching to SMS when data drops, and fleet management systems adapting monitoring strategies.",
+      "url": ""
+    },
+    {
+      "id": "prod-68",
+      "name": "Device Identifier",
+      "image": "https://files.slicce.co/Good/Device%20Identifier.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Device Identifier\" API returns details of the physical mobile device used by a subscriber, including IMEI, IMEI SV, Type Allocation Code, manufacturer, and model. This enables accurate identification for insurance, fraud detection, service optimization, and customer support. It ensures operational efficiency by eliminating manual errors in device information retrieval.",
+      "url": ""
+    },
+    {
+      "id": "prod-69",
+      "name": "Device Reachability Status",
+      "image": "https://files.slicce.co/Good/Device%20Reachability%20Status.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Device Reachability Status\" API reveals whether a device is reachable via SMS, data, or both. This helps applications decide the best communication method in real time. Use cases include emergency alerts sent via SMS when data is unavailable, customer support ensuring reliable message delivery, and IoT systems switching to low‑bandwidth communication when needed.",
+      "url": ""
+    },
+    {
+      "id": "prod-70",
+      "name": "Device Reachability Status Subscriptions",
+      "image": "https://files.slicce.co/Good/Device%20Reachability%20Status%20Subscription.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Device Reachability Status Subscriptions\" API notifies applications automatically when a device's reachability changes (e.g., from reachable to unreachable via SMS or data). This eliminates constant polling and ensures timely adaptation. Typical uses include emergency services triggering SMS alerts, customer support platforms adjusting communication channels, and IoT systems modifying reporting frequency.",
+      "url": ""
+    },
+    {
+      "id": "prod-71",
+      "name": "Device Roaming Status",
+      "image": "https://files.slicce.co/Good/Device%20Roaming%20Status.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Device Roaming Status\" API determines whether a device is roaming on a foreign network and identifies the country. It supports fraud prevention, regulatory compliance, and territorial content restrictions. Use cases include banks verifying transaction locations, streaming services enforcing licensing rules, and advertisers targeting campaigns to authorized regions.",
+      "url": ""
+    },
+    {
+      "id": "prod-72",
+      "name": "Device Roaming Status Subscriptions",
+      "image": "https://files.slicce.co/Good/Device%20Roaming%20Status%20Subscription.jpg",
+      "category": "API",
+      "family": "Device Information",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Device Roaming Status Subscriptions\" API delivers push notifications when a device enters or exits roaming, including the current country. This enables real‑time adaptation without repeated queries. Applications use it for fraud detection, content restriction enforcement, and advertising campaigns that adjust automatically to user location.",
+      "url": ""
+    },
+    {
+      "id": "prod-73",
+      "name": "Simple Edge Discovery",
+      "image": "https://files.slicce.co/Good/Simple%20Edge%20Discovery.jpg",
+      "category": "API",
+      "family": "Computing Services",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Simple Edge Discovery\" API enables applications to identify the closest edge computing location available to a device. By providing information about the optimal edge site, it helps services minimize latency, improve performance, and deliver seamless user experiences. Typical use cases include immersive gaming, augmented and virtual reality, real‑time analytics, and industrial IoT applications that require low‑latency processing.",
+      "url": ""
+    },
+    {
+      "id": "prod-74",
+      "name": "Blockchain Public Address",
+      "image": "https://files.slicce.co/Good/Blockchain%20Public%20Adress.jpg",
+      "category": "API",
+      "family": "Payments and Charging",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Blockchain Public Address\" API provides access to the public blockchain address (BPA) associated with a mobile subscriber. It enables applications to integrate telecom identity with blockchain services, supporting use cases such as digital asset management, secure identity verification, and mobile‑based blockchain transactions.",
+      "url": ""
+    },
+    {
+      "id": "prod-75",
+      "name": "Carrier Billing",
+      "image": "https://files.slicce.co/Good/Carrier%20Billing.jpg",
+      "category": "API",
+      "family": "Payments and Charging",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Carrier Billing\" API allows applications to charge purchases directly to a user's mobile phone bill. It simplifies payment flows by leveraging the operator's billing infrastructure, enabling frictionless transactions for digital goods, subscriptions, and in‑app purchases. Typical uses include app stores, streaming services, and online gaming platforms.",
+      "url": ""
+    },
+    {
+      "id": "prod-76",
+      "name": "Carrier Billing Refund",
+      "image": "https://files.slicce.co/Good/Carrier%20Billing%20Refund.jpg",
+      "category": "API",
+      "family": "Payments and Charging",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Carrier Billing Refund\" API enables applications to process refunds for transactions previously charged via carrier billing. It ensures transparent and secure reversal of charges, improving customer trust and satisfaction. Use cases include subscription cancellations, digital content returns, and error corrections in mobile billing.",
+      "url": ""
+    },
+    {
+      "id": "prod-77",
+      "name": "Caller ID Management",
+      "image": "https://files.slicce.co/Good/Caller%20ID%20Management.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Caller ID Management\" API allows applications to place calls or send SMS messages while presenting a verified business phone number as the calling party identity. It provides a controlled and compliant way for organizations to ensure that outbound communications consistently display their official service number. Typical use cases include customer support lines, delivery notifications, appointment reminders, and any scenario where a unified, trusted business identity is essential.",
+      "url": ""
+    },
+    {
+      "id": "prod-78",
+      "name": "Call Screening",
+      "image": "https://files.slicce.co/Good/Call%20Screening.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Call Screening\" API enables applications to control inbound call permissions by managing whitelists, blacklists, and PIN‑protected access. It allows users or businesses to define which callers are allowed through, which are blocked, and which must authenticate with a PIN before the call is connected. Typical use cases include protecting personal numbers, securing executive or VIP lines, reducing spam, and ensuring that only verified or authorized callers can reach sensitive endpoints.",
+      "url": ""
+    },
+    {
+      "id": "prod-79",
+      "name": "Short Dial",
+      "image": "https://files.slicce.co/Good/Short%20Dial.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Short Dial\" API enables organizations to assign and manage internal short codes that instantly connect callers to company employees or departments. It provides a unified dialing experience across all devices—desk phones, softphones, and mobile apps—allowing users to reach colleagues quickly without remembering full phone numbers. Typical use cases include simplifying internal communication, speeding up support escalation, and improving accessibility to key personnel or teams.",
+      "url": ""
+    },
+    {
+      "id": "prod-80",
+      "name": "Branding",
+      "image": "https://files.slicce.co/Good/Branding.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Branding\" API enables organizations to customize the caller experience by setting branded ringback tones and displaying corporate logos on supported devices whenever calls are made to company phones or customers. It provides a unified, recognizable identity across all inbound interactions, reinforcing brand presence and enhancing customer trust. Typical use cases include customer service hotlines, premium support channels, and corporate communication systems that aim to deliver a consistent, professional brand experience.",
+      "url": ""
+    },
+    {
+      "id": "prod-81",
+      "name": "Scheduler",
+      "image": "https://files.slicce.co/Good/Scheduler.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Scheduler\" API enables applications to plan and automate outbound communication campaigns by scheduling batches of short messages or voice calls to targeted devices. It provides precise control over timing, delivery windows, and recipient lists, ensuring that notifications, alerts, reminders, or marketing campaigns are executed reliably and at scale. Typical use cases include appointment reminders, service updates, promotional outreach, and time‑sensitive alerts.",
+      "url": ""
+    },
+    {
+      "id": "prod-82",
+      "name": "SMS to Email",
+      "image": "https://files.slicce.co/Good/SMS%20to%20email.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"SMS to Email\" API forwards incoming text messages to a designated email address whenever a device is unreachable—such as when it is powered off, out of coverage, or otherwise unavailable. It ensures that important communications are never missed by seamlessly delivering SMS content to the user's inbox. Typical use cases include business continuity, travel scenarios, remote field operations, and any situation where reliable message access is essential even without mobile connectivity.",
+      "url": ""
+    },
+    {
+      "id": "prod-83",
+      "name": "Call Transcription",
+      "image": "https://files.slicce.co/Good/Call%20transcription.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Call Transcription\" API enables applications to request a full transcription of a completed voice call and automatically deliver a concise call summary to a designated email address. It provides an efficient way to capture key details, decisions, and action items from conversations without manual note‑taking. Typical use cases include customer support documentation, compliance reporting, sales follow‑ups, and operational record‑keeping.",
+      "url": ""
+    },
+    {
+      "id": "prod-84",
+      "name": "Missed Call Notifications",
+      "image": "https://files.slicce.co/Good/Missed%20Call%20Notification.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Missed Call Notifications\" API alerts users whenever an incoming call to their device goes unanswered—whether due to being busy, unavailable, or out of coverage. It ensures important calls are not overlooked by delivering timely notifications through alternative channels such as email, SMS, or app alerts. Typical use cases include business continuity, customer service responsiveness, and personal availability management.",
+      "url": ""
+    },
+    {
+      "id": "prod-85",
+      "name": "Multi‑DID",
+      "image": "https://files.slicce.co/Good/Multi-DID.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Multi‑DID\" API enables users to attach multiple phone numbers—often from different countries or regions—to a single mobile device. It provides a unified way to manage international business identities, allowing calls and messages to be sent and received using the appropriate local number without needing multiple SIMs or devices. Typical use cases include multinational operations, regional customer support lines, and professionals who maintain separate numbers for different markets or business functions.",
+      "url": ""
+    },
+    {
+      "id": "prod-86",
+      "name": "Fix Dial",
+      "image": "https://files.slicce.co/Good/Fix%20Dial.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Fix Dial\" API automatically corrects dialed numbers when users are abroad by converting local-format numbers into the proper international format and resolving home‑network short codes. It ensures that calls connect successfully even when the user forgets country prefixes or dials familiar short numbers that only exist in their domestic network. Typical use cases include international business travel, roaming scenarios, and simplifying dialing behavior for employees who frequently move between countries.",
+      "url": ""
+    },
+    {
+      "id": "prod-87",
+      "name": "Do Not Disturb",
+      "image": "https://files.slicce.co/Good/Do%20Not%20Disturb.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Do Not Disturb\" API allows users to automatically silence incoming calls and messages during selected times or conditions, while still permitting exceptions for priority contacts or emergency calls. It provides flexible control over availability, helping users avoid interruptions during meetings, rest hours, or personal time. Typical use cases include work‑life balance management, meeting automation, nighttime protection, and creating custom quiet periods across devices.",
+      "url": ""
+    },
+    {
+      "id": "prod-88",
+      "name": "Parental Controls",
+      "image": "https://files.slicce.co/Good/Parental%20control.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Parental Controls\" API enables guardians to manage and restrict how a child's device can place or receive calls and messages. It allows configuration of allowed and blocked numbers, time‑based usage limits, and rules for emergency or priority contacts. This ensures a safer and more controlled communication environment for younger users. Typical use cases include limiting late‑night calls, preventing contact with unknown numbers, and managing device usage during school hours.",
+      "url": ""
+    },
+    {
+      "id": "prod-89",
+      "name": "Dual‑Profile Mode",
+      "image": "https://files.slicce.co/Good/Dual%E2%80%91Profile%20Mode.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Dual‑Profile Mode\" API allows users to maintain separate communication identities—such as personal and work profiles—on a single device. Each profile can have its own caller ID, voicemail settings, routing rules, and notification preferences, enabling seamless switching between roles without needing multiple phones or SIMs. Typical use cases include professionals balancing business and private life, freelancers managing multiple clients, and users who want clear separation between different communication personas.",
+      "url": ""
+    },
+    {
+      "id": "prod-90",
+      "name": "Emergency Contact Auto‑Alert",
+      "image": "https://files.slicce.co/Good/Emergency%20Contact%20Auto%E2%80%91Alert.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Emergency Contact Auto‑Alert\" API automatically notifies designated contacts whenever a user initiates an emergency call from their device. It sends immediate alerts—via SMS, email, or app notification—containing essential details such as the time and type of emergency action. This ensures that family members, caregivers, or security teams are promptly informed during critical situations. Typical use cases include personal safety, elderly care, lone‑worker protection, and enhanced emergency response coordination.",
+      "url": ""
+    },
+    {
+      "id": "prod-91",
+      "name": "Spam Call Protection",
+      "image": "https://files.slicce.co/Good/Spam%20Call%20Protection.jpg",
+      "category": "API",
+      "family": "Consumer Value Added",
+      "networks": "3G, 4G, 5G",
+      "description": "The \"Spam Call Protection\" API helps users avoid unwanted or fraudulent calls by filtering inbound traffic based on real‑time reputation scoring, network intelligence, and user‑defined rules. It automatically identifies suspicious callers, blocks high‑risk numbers, and labels uncertain calls with warning indicators. Typical use cases include reducing nuisance calls, protecting users from scams, and enhancing overall communication safety across mobile and fixed devices",
+      "url": ""
+    },
+    {
+      "id": "prod-92",
+      "name": "Resource Management of Background Data Transfer",
+      "image": "https://files.slicce.co/Good/Resource%20Management%20of%20Background%20Data%20Transfer.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"Resource Management of Background Data Transfer\" API enables devices and applications to schedule and optimize non‑urgent data uploads or downloads over 5G networks. It leverages network awareness—such as congestion levels, slice availability, and radio conditions—to allocate resources efficiently and minimize impact on foreground traffic. This allows large or periodic data transfers to occur during optimal network windows, reducing costs and improving battery life. Typical use cases include IoT sensor data uploads, fleet telemetry synchronization, firmware distribution, and any scenario where background data can be intelligently deferred or throttled.",
+      "url": ""
+    },
+    {
+      "id": "prod-93",
+      "name": "Communication Patterns Parameters Provisioning",
+      "image": "https://files.slicce.co/Good/Communication%20Patterns%20Parameters%20Provisioning.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"Communication Patterns (CP) Parameters Provisioning\" API allows applications to configure how 5G IoT devices communicate by defining expected traffic behaviors such as message size, frequency, latency tolerance, and burst characteristics. By provisioning these CP parameters, the network can optimize resource allocation, reduce signaling overhead, and ensure predictable performance for massive or periodic M2M workloads. Typical use cases include smart meters, environmental sensors, industrial automation devices, and any IoT deployment where traffic patterns are known in advance and can be efficiently tailored for network efficiency.",
+      "url": ""
+    },
+    {
+      "id": "prod-94",
+      "name": "Packet Flow Description Management",
+      "image": "https://files.slicce.co/Good/Packet%20Flow%20Description%20Management.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"Packet Flow Description (PFD) Management\" API allows applications to define and manage detailed traffic signatures that help the 5G core network identify and classify specific application flows. By provisioning PFDs—such as IP ranges, domain names, protocols, and port patterns—the network can apply precise policies for charging, QoS, routing, or security enforcement. This ensures that IoT and M2M services receive the correct treatment based on their traffic characteristics. Typical use cases include differentiating telemetry from control traffic, prioritizing mission‑critical flows, enabling application‑aware charging, and enhancing security through accurate flow detection.",
+      "url": ""
+    },
+    {
+      "id": "prod-95",
+      "name": "Enhanced Coverage Restriction Control",
+      "image": "https://files.slicce.co/Good/Enhanced%20Coverage%20Restriction%20Control.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"Enhanced Coverage Restriction Control\" API allows operators or applications to manage where specific 5G devices are permitted to attach or operate by enforcing geographic or network‑based coverage restrictions. It enables fine‑grained control over device connectivity—such as limiting service to approved areas, preventing roaming, or restricting access to certain radio layers or cells. This ensures compliance, security, and cost control for sensitive or location‑bound IoT deployments. Typical use cases include logistics asset tracking, private campus networks, regulatory‑restricted devices, and industrial equipment that must remain within defined operational zones.",
+      "url": ""
+    },
+    {
+      "id": "prod-96",
+      "name": "Network Parameter Configuration",
+      "image": "https://files.slicce.co/Good/Network%20Parameter%20Configuration.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"Network Parameter Configuration\" API enables applications to remotely adjust key connectivity parameters for 5G IoT and M2M devices, such as preferred radio technologies, mobility settings, attach profiles, and network selection behaviors. By fine‑tuning these parameters, operators can optimize device performance for specific environments — whether stationary sensors, mobile assets, or mission‑critical equipment. Typical use cases include configuring devices for private networks, enforcing preferred RAT or band usage, optimizing mobility for fleet devices, and ensuring consistent connectivity across diverse deployment scenarios.",
+      "url": ""
+    },
+    {
+      "id": "prod-97",
+      "name": "MSISDN‑less Mobile‑Originated SMS",
+      "image": "https://files.slicce.co/Good/MSISDN%E2%80%91less%20Mobile%E2%80%91Originated%20SMS.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"MSISDN‑less Mobile‑Originated SMS\" API enables devices to send SMS messages without requiring an associated MSISDN, relying instead on alternative identifiers such as IMSI, IMEI, or subscription profiles. This is particularly valuable for IoT and M2M deployments where devices need to transmit alerts, telemetry, or status updates but do not require a traditional phone number. It reduces provisioning overhead, simplifies large‑scale device activation, and enhances security by limiting exposure of public identifiers. Typical use cases include utility meters, industrial sensors, asset trackers, and any IoT device that communicates via SMS but does not need a callable identity.",
+      "url": ""
+    },
+    {
+      "id": "prod-98",
+      "name": "NIDD Configuration Trigger",
+      "image": "https://files.slicce.co/Good/NIDD%20Configuration%20Trigger.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"NIDD Configuration Trigger\" API enables applications to remotely initiate configuration updates for devices using Non‑IP Data Delivery (NIDD) over 5G or LTE‑M networks. It allows the network to signal devices to adjust parameters such as payload format, reporting intervals, security profiles, or service behavior—without requiring an IP session or continuous connectivity. This ensures efficient, low‑power, and secure management of massive IoT fleets. Typical use cases include updating sensor reporting rules, activating new service profiles, adjusting power‑saving settings, and orchestrating configuration changes for devices deployed in hard‑to‑reach or battery‑sensitive environments.",
+      "url": ""
+    },
+    {
+      "id": "prod-99",
+      "name": "5G LAN Parameter Provision",
+      "image": "https://files.slicce.co/Good/5G%20LAN%20Parameter%20Provision.jpg",
+      "category": "API",
+      "family": "Machine 2 Machine",
+      "networks": "4G, 5G",
+      "description": "The \"5G LAN Parameter Provision\" API enables applications to configure and manage virtual LAN environments over 5G networks, allowing groups of devices to communicate as if they were on the same local network segment. It supports provisioning of parameters such as membership rules, traffic isolation, addressing behavior, and security policies. This creates flexible, software‑defined LANs that span wide geographic areas while maintaining low latency and deterministic performance. Typical use cases include industrial automation cells, collaborative robotics, campus‑wide private networks, and secure group communication for fleets of connected devices.",
+      "url": ""
+    }
+  ]
+}
