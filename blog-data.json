@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": "slicce-is-launched",
+      "title": "Slicce is launched",
+      "intro": "We are excited to introduce Slicce; Self-containted Lightweight Cloud Communication Engines.",
+      "body": "<p>A platform that enables you to create and deploy microservices for telecom core network applications. Slicce's communication engines are scalable, secure, and easy to use.</p><blockquote>Slicce's communication engines can help you achieve faster time-to-market, lower operational costs, and better customer experience.</blockquote>",
+      "image": "",
+      "author": "Slicce",
+      "category": "5G",
+      "tags": ["5G", "Cloud", "Telecom"],
+      "featured": true,
+      "slug": "slicce-is-launched",
+      "publishDate": "2023-04-18T00:00:00"
+    }
+  ],
+  "categories": ["5G", "Cloud", "API", "Telecom"],
+  "authors": [
+    { "id": "slicce", "name": "Slicce", "role": "Company" }
+  ]
+}
