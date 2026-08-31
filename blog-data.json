@@ -117,13 +117,14 @@
       "title": "Unlocking Telecom Innovation Across Generations",
       "intro": "Most cellular networks worldwide still run on 3G and 4G infrastructures, with limited support for 5G APIs and their opportunities. The challenge is how to bring 5G capabilities…",
       "body": "<p>Most cellular networks worldwide still run on 3G and 4G infrastructures, with limited support for 5G APIs and their opportunities. The challenge is how to bring 5G capabilities into these environments without requiring a fundamental transformation.</p><p>Slicce cloud-native microservices framework provides network functions through standardized APIs to those legacy environments, abstracting multiple network generations into a unified exposure layer that normalizes protocols and makes next-gen capabilities usable in a consistent way.</p><p>Our architecture integrates a complete API exposure stack:</p><ul><li>CAPIF Core Function (aligned with NEF/3GPP standards) to handle service registration, discovery, and access control</li><li>Application Functions (AF) and API Exposure Functions (AEF) to publish, consume, and orchestrate network services across domains</li><li>Interworking Functions (IWF) to translate and bridge legacy protocols (Diameter, SIP, SS7) into modern API-based interactions</li><li>Telecom-optimized Load Balancers designed for low-latency signaling, high throughput, and carrier-grade resilience</li></ul><p>APIs become the unifying control layer across heterogeneous core domains, abstracting differences between UMTS, EPC/IMS, and 5GC. Slicce delivers this capability through a cloud-native microservices framework that standardizes API lifecycle management, integrates with CI/CD toolchains for rapid deployment, and ensures interoperability across vendors and generations. With this foundation, operators can evolve networks incrementally, monetize existing assets, and accelerate the delivery of next-generation services across consumer, enterprise, and vertical markets.</p><p>Visit our Technology page: https://www.slicce.co/technology</p>",
-      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQVSIy6w9Ocs345V79wDU327RxHCCnCHVLqR52wdsRftqRyAYyUFpOikgiWiDfRS9glLz5mY9PZwnIW7l6ShtYbCGDEPrHUf9TlBC3MvoM8CZYX4Qxig-RZ4FZU--k1K4DDtIwjEIIzodsOFcT81KCxlwWtuQgJ9igCOuVqz5SjBog7ZG8t1uv3iU3cujsLkZgNIuaq20KWo43iOupV-NEnGxGYE7_Sl_tmO-TTucHk=w1280",
+      "image": "https://files.slicce.co/blog/5g-linkedin-post.gif",
       "author": "slicce-team",
       "category": "Charging & Interworking",
       "tags": [],
       "featured": false,
       "slug": "unlocking-telecom-innovation-across-generations",
-      "publishDate": "2025-09-09T00:00:00Z"
+      "publishDate": "2025-09-09T00:00:00Z",
+      "createdAt": "2026-08-31T15:11:44.651Z"
     },
     {
       "id": "single-engine-vs-multi-engine-your-mission-demands-the-right-infrastructure",
