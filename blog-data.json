@@ -238,13 +238,14 @@
       "title": "The 7 basics of API Exposure security embedded in Slicce Common API Framework Core Function",
       "intro": "1. Application Level Firewall — Denial of service based on API logic. 2. Fail2ban — Denial of service for repetitive API requests of a same type. 3. Encryption — HTTP/2 with TLS…",
       "body": "<p>1. Application Level Firewall — Denial of service based on API logic. 2. Fail2ban — Denial of service for repetitive API requests of a same type. 3. Encryption — HTTP/2 with TLS 1.3 encryption. 4. oAuth — Periodic Authentication with JSON Web Tokens (JWT). 5. Policy Control — Selective access to specific API sets. 6. Rate Limit — Restrict number of API calls/hour. 7. Audit trail — Analysis of audit log for potential anomalies.</p>",
-      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQUh3XeBzzAP-djLk_1bUjiu0YoVTvk589e1DAxX257CvBeUZdI184bFtiKwiXVJGRLgM6aRBbmYQ2zgTmcZW2FJW5-777rwipIMGgumJe_df4nB8SIUZUdS3vrsOvTu6iu2zJeO9RYvA853gMTH5GUsq7WeYaCW_c66ZTcGjJrWa_TLTiVyxEdWCMIS1CHzfsPCciv2CZyVTUJ86J_Kp3OE4y2kIDFN6yB9EzAh=w1280",
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/7secu.jpg?raw=true",
       "author": "slicce-team",
       "category": "CAPIF & API Exposure",
       "tags": [],
       "featured": false,
       "slug": "the-7-basics-of-api-exposure-security-embedded-in-slicce-common-api-framework-co",
-      "publishDate": "2023-07-23T00:00:00Z"
+      "publishDate": "2023-07-23T00:00:00Z",
+      "createdAt": "2026-09-01T14:32:55.177Z"
     },
     {
       "id": "the-link-between-5g-and-ott-services",
