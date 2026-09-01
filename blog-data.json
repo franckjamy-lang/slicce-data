@@ -358,13 +358,14 @@
       "title": "5G developers can rely on Slicce cloud communication engine foundation",
       "intro": "5G developers can rely on Slicce cloud communication engine foundation to rapidly deploy innovative 5G Application Functions. Slicce is a powerful and flexible platform that…",
       "body": "<p>5G developers can rely on Slicce cloud communication engine foundation to rapidly deploy innovative 5G Application Functions.</p><p>Slicce is a powerful and flexible platform that enables 5G developers to create and manage 5G Application Functions with ease and efficiency. Slicce provides a rich set of features, such as scalability, security, reliability, and interoperability, that are essential for 5G applications. With Slicce, 5G developers can focus on their core business logic and deliver high-quality 5G services to their customers.</p>",
-      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQWtVQa2i-z1kj1i28V2uLbF8siEr_C89YqhMiuL5oKG93Te9u7hDaKeyjd1iKZom_1zd-xW-e-tiwKMQdOsyGabhhO8MfbujAgQ0zf9HMNpLwffUQgYP0atY_Av8iQND2h8ie2ScNHsl_BVR2yLXMuz1dqmTzd6yrbonxqVij8Ye-58SR0tbnrFoeypPdE1ZKlw0QS-9uJVGtFD7LNMP3xSD4sqMAJY2vHoITIV5XQ=w1280",
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/blog_5G.jpg?raw=true",
       "author": "slicce-team",
       "category": "5G & Network APIs",
       "tags": [],
       "featured": false,
       "slug": "5g-developers-can-rely-on-slicce-cloud-communication-engine-foundation",
-      "publishDate": "2023-06-01T00:00:00Z"
+      "publishDate": "2023-06-01T00:00:00Z",
+      "createdAt": "2026-09-01T15:04:29.164Z"
     },
     {
       "id": "the-3gpp-common-api-framework-core-function",
