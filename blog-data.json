@@ -318,13 +318,14 @@
       "title": "Harmonization of 4G OCS with 3G and 5G cores",
       "intro": "Replacing a telecom online charging system (OCS) is a painful process that involves many challenges and risks. An OCS is a complex system that handles the real-time billing and…",
       "body": "<p>Replacing a telecom online charging system (OCS) is a painful process that involves many challenges and risks. An OCS is a complex system that handles the real-time billing and charging of telecom services, such as voice calls, data usage, SMS, roaming, etc. It interacts with many other systems, such as network elements, CRM, provisioning, mediation, rating, etc.</p><p>Replacing an OCS requires careful planning and execution of several steps: analyzing the current OCS architecture; selecting a new OCS vendor and solution; designing and testing integration with existing systems; migrating existing data and configuration; training staff and customers; monitoring and troubleshooting during and after launch.</p><p>Each of these steps can pose significant challenges and risks: compatibility issues between old and new OCS systems; data loss or corruption during migration; performance degradation or service disruption; customer dissatisfaction due to billing changes; regulatory compliance issues; cost overruns or delays.</p><p>Therefore, replacing an OCS is a painful process that requires a lot of time, resources, and expertise. It should only be done when there is a clear business case and a well-defined strategy for minimizing the risks. Making use of the charging interworking function (CHF-IWF) represents considerable cost and time savings and allows network operators to evolve their network cores without carrying the costs of implementing a new billing solution.</p>",
-      "image": "https://lh3.googleusercontent.com/sitesv/AG8ngQXDxVb9miIUCH2-dGh4hC1rKclQsdpz9uU0UhVbN6RI7m2X0zNLKqZEuCAs8eaU5TE3k9PiNnXIkYjdaWUGDDObJsBI04FgH9OMeMAlmIp9s3xIdSgOHarpyFQ0eqbcInbXhHUyMP27OVLbt2ncAdg0V7tRqKJyPL7TN66zbJ1gQudK7jLukP8HupLtD5A-ymWI-q7oAmyn5Lvjta-TUsmwZqNqEpP76HMl0CVEh4k=w1280",
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/blog_Harmonization.gif?raw=true",
       "author": "slicce-team",
       "category": "Charging & Interworking",
       "tags": [],
       "featured": false,
       "slug": "harmonization-of-4g-ocs-with-3g-and-5g-cores",
-      "publishDate": "2023-06-23T00:00:00Z"
+      "publishDate": "2023-06-23T00:00:00Z",
+      "createdAt": "2026-09-01T14:57:53.187Z"
     },
     {
       "id": "self-healing-hooks-in-slicce-cloud-communication-engine-foundation",
