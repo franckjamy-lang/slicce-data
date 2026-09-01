@@ -23,7 +23,7 @@
       "author": "slicce-team",
       "category": "5G & Network APIs",
       "tags": [],
-      "featured": false,
+      "featured": true,
       "slug": "telecom-didn-t-lose-relevance-it-lost-velocity",
       "publishDate": "2026-01-14T00:00:00Z",
       "createdAt": "2026-08-31T15:06:43.785Z"
@@ -51,7 +51,7 @@
       "author": "slicce-team",
       "category": "Charging & Interworking",
       "tags": [],
-      "featured": true,
+      "featured": false,
       "slug": "the-3-levels-of-programmable-wireless-slicce-powers-the-programmable-layer-in-be",
       "publishDate": "2025-10-21T00:00:00Z",
       "createdAt": "2026-08-31T15:07:28.231Z"
