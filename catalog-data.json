@@ -3,7 +3,7 @@
     {
       "id": "prod-1",
       "name": "CAPIF-CF",
-      "image": "https://files.slicce.co/Good/CAPIF-CF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_CAPIF-CF.jpg",
       "category": "Engine",
       "family": "Network Functions",
       "networks": "3G, 4G, 5G",
@@ -13,7 +13,7 @@
     {
       "id": "prod-2",
       "name": "CGF-NF",
-      "image": "https://files.slicce.co/Good/CGF-NF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_CGF-NF.jpg",
       "category": "Engine",
       "family": "Network Functions",
       "networks": "3G, 4G, 5G",
@@ -23,7 +23,7 @@
     {
       "id": "prod-3",
       "name": "SMS-CF",
-      "image": "https://files.slicce.co/Good/SMS-CF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SMS-CF.jpg",
       "category": "Engine",
       "family": "Network Functions",
       "networks": "3G, 4G, 5G",
@@ -33,7 +33,7 @@
     {
       "id": "prod-4",
       "name": "CAP-AEF",
-      "image": "https://files.slicce.co/Good/CAP-AEF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_CAP-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G",
@@ -43,7 +43,7 @@
     {
       "id": "prod-5",
       "name": "MAP-AEF",
-      "image": "https://files.slicce.co/Good/MAP-AEF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MAP-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G",
@@ -53,7 +53,7 @@
     {
       "id": "prod-6",
       "name": "USSD-AEF",
-      "image": "https://files.slicce.co/Good/USSD-AEF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_USSD-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G",
@@ -63,7 +63,7 @@
     {
       "id": "prod-7",
       "name": "INAP-AEF",
-      "image": "https://files.slicce.co/Good/INAP-AEF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_INAP-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G",
@@ -73,7 +73,7 @@
     {
       "id": "prod-8",
       "name": "ISC-AEF",
-      "image": "https://files.slicce.co/Good/ISC-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_ISC-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "4G, 5G",
@@ -83,7 +83,7 @@
     {
       "id": "prod-9",
       "name": "DMT-AEF",
-      "image": "https://files.slicce.co/Good/DMT-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_DMT-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "4G, 5G",
@@ -93,7 +93,7 @@
     {
       "id": "prod-10",
       "name": "MTC-AEF",
-      "image": "https://files.slicce.co/Good/MTC-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MTC-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "4G, 5G",
@@ -103,7 +103,7 @@
     {
       "id": "prod-11",
       "name": "CDS-AEF",
-      "image": "https://files.slicce.co/Good/CDS-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_CDS-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
@@ -113,7 +113,7 @@
     {
       "id": "prod-12",
       "name": "AAA-AEF",
-      "image": "https://files.slicce.co/Good/AAA-AEF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_AAA-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
@@ -123,7 +123,7 @@
     {
       "id": "prod-13",
       "name": "CPAAS-AEF",
-      "image": "https://files.slicce.co/Good/CPAAS-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_CPAAS-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
@@ -133,7 +133,7 @@
     {
       "id": "prod-14",
       "name": "SMS-AEF",
-      "image": "https://files.slicce.co/Good/SMS-AEF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SMS-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
@@ -143,7 +143,7 @@
     {
       "id": "prod-15",
       "name": "MLC-AEF",
-      "image": "https://files.slicce.co/Good/MLC-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MLC-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
@@ -153,7 +153,7 @@
     {
       "id": "prod-16",
       "name": "SCS-AEF",
-      "image": "https://files.slicce.co/Good/SCS-AEF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SCS-AEF2.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
@@ -163,7 +163,7 @@
     {
       "id": "prod-17",
       "name": "NRD-AF",
-      "image": "https://files.slicce.co/Good/NRD-AF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_NRD-AF2.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -173,7 +173,7 @@
     {
       "id": "prod-18",
       "name": "TLS-AF",
-      "image": "https://files.slicce.co/Good/TLS-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_TLS-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -183,7 +183,7 @@
     {
       "id": "prod-19",
       "name": "BWL-AF",
-      "image": "https://files.slicce.co/Good/BWL-AF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_BWL-AF2.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -193,7 +193,7 @@
     {
       "id": "prod-20",
       "name": "OCR-AF",
-      "image": "https://files.slicce.co/Good/OCR-AF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_OCR-AF2.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -203,7 +203,7 @@
     {
       "id": "prod-21",
       "name": "MRG-AF",
-      "image": "https://files.slicce.co/Good/MRG-AF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MRG-AF2.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -213,7 +213,7 @@
     {
       "id": "prod-22",
       "name": "DID-AF",
-      "image": "https://files.slicce.co/Good/DID-AF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_DID-AF2.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -223,7 +223,7 @@
     {
       "id": "prod-23",
       "name": "RBT-AF",
-      "image": "https://files.slicce.co/Good/RBT-AF2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_RBT-AF2.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -233,7 +233,7 @@
     {
       "id": "prod-24",
       "name": "ICS-AF",
-      "image": "https://files.slicce.co/Good/ICS-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_ICS-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -243,7 +243,7 @@
     {
       "id": "prod-25",
       "name": "MCN-AF",
-      "image": "https://files.slicce.co/Good/MCN-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MCN-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -253,7 +253,7 @@
     {
       "id": "prod-26",
       "name": "REC-AF",
-      "image": "https://files.slicce.co/Good/REC-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_REC-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -263,7 +263,7 @@
     {
       "id": "prod-27",
       "name": "VPN-AF",
-      "image": "https://files.slicce.co/Good/VPN-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_VPN-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -273,7 +273,7 @@
     {
       "id": "prod-28",
       "name": "BRD-AF",
-      "image": "https://files.slicce.co/Good/BRD-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_BRD-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -283,7 +283,7 @@
     {
       "id": "prod-29",
       "name": "ACD-AF",
-      "image": "https://files.slicce.co/Good/ACD-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_ACD-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -293,7 +293,7 @@
     {
       "id": "prod-30",
       "name": "MML-AF",
-      "image": "https://files.slicce.co/Good/MML-AF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MML-AF.jpg",
       "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
@@ -303,7 +303,7 @@
     {
       "id": "prod-31",
       "name": "CHF-IWF",
-      "image": "https://files.slicce.co/Good/CHF-IWF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_CHF-IWF.jpg",
       "category": "Engine",
       "family": "Interworking Functions",
       "networks": "3G, 4G, 5G",
@@ -313,7 +313,7 @@
     {
       "id": "prod-32",
       "name": "IMS-IWF",
-      "image": "https://files.slicce.co/Good/IMS-IWF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_IMS-IWF.jpg",
       "category": "Engine",
       "family": "Interworking Functions",
       "networks": "3G, 4G, 5G",
@@ -323,7 +323,7 @@
     {
       "id": "prod-33",
       "name": "SMS-IWF",
-      "image": "https://files.slicce.co/Good/SMS-IWF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SMS-IWF.jpg",
       "category": "Engine",
       "family": "Interworking Functions",
       "networks": "3G, 4G, 5G",
@@ -333,7 +333,7 @@
     {
       "id": "prod-34",
       "name": "SS7-LB",
-      "image": "https://files.slicce.co/Good/SMS-IWF.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SMS-IWF.jpg",
       "category": "Engine",
       "family": "Load Balancers",
       "networks": "3G",
@@ -343,7 +343,7 @@
     {
       "id": "prod-35",
       "name": "SIP-LB",
-      "image": "https://files.slicce.co/Good/SIP-LB.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SIP-LB.jpg",
       "category": "Engine",
       "family": "Load Balancers",
       "networks": "4G, 5G",
@@ -353,7 +353,7 @@
     {
       "id": "prod-36",
       "name": "DMT-LB",
-      "image": "https://files.slicce.co/Good/DMT-LB2.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_DMT-LB2.jpg",
       "category": "Engine",
       "family": "Load Balancers",
       "networks": "4G, 5G",
@@ -363,7 +363,7 @@
     {
       "id": "prod-37",
       "name": "GTP-LB",
-      "image": "https://files.slicce.co/Good/GTP-LB.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_GTP-LB.jpg",
       "category": "Engine",
       "family": "Load Balancers",
       "networks": "3G, 4G, 5G",
@@ -373,7 +373,7 @@
     {
       "id": "prod-38",
       "name": "Call Forwarding Signal",
-      "image": "https://files.slicce.co/Good/Call%20Forwarding%20Signal.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Call%20Forwarding%20Signal.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -383,7 +383,7 @@
     {
       "id": "prod-39",
       "name": "Customer Insight",
-      "image": "https://files.slicce.co/Good/Customer%20Insight.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Customer%20Insight.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -393,7 +393,7 @@
     {
       "id": "prod-40",
       "name": "Device Swap",
-      "image": "https://files.slicce.co/Good/Device%20Swap.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Device%20Swap.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -403,7 +403,7 @@
     {
       "id": "prod-41",
       "name": "Know Your Customer Age Verification",
-      "image": "https://files.slicce.co/Good/KYC%20Age%20verification.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_KYC%20Age%20verification.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -413,7 +413,7 @@
     {
       "id": "prod-42",
       "name": "Know Your Customer Fill In",
-      "image": "https://files.slicce.co/Good/KYC%20Fill%20In.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_KYC%20Fill%20In.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -423,7 +423,7 @@
     {
       "id": "prod-43",
       "name": "Know Your Customer Match",
-      "image": "https://files.slicce.co/Good/KYC%20Match.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_KYC%20Match.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -433,7 +433,7 @@
     {
       "id": "prod-44",
       "name": "Know Your Customer Tenure",
-      "image": "https://files.slicce.co/Good/KYC%20Tenure.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_KYC%20Tenure.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -443,7 +443,7 @@
     {
       "id": "prod-45",
       "name": "Number Recycling",
-      "image": "https://files.slicce.co/Good/Number%20Recycling.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Number%20Recycling.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -453,7 +453,7 @@
     {
       "id": "prod-46",
       "name": "Number Verification",
-      "image": "https://files.slicce.co/Good/Number%20verification.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Number%20verification.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -463,7 +463,7 @@
     {
       "id": "prod-47",
       "name": "One Time Password SMS",
-      "image": "https://files.slicce.co/Good/One%20Time%20Pwd%20SMS.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_One%20Time%20Pwd%20SMS.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -473,7 +473,7 @@
     {
       "id": "prod-48",
       "name": "Scam Signal",
-      "image": "https://files.slicce.co/Good/Scam%20Signal.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Scam%20Signal.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -483,7 +483,7 @@
     {
       "id": "prod-49",
       "name": "Sim Swap",
-      "image": "https://files.slicce.co/Good/Sim%20Swap.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Sim%20Swap.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -493,7 +493,7 @@
     {
       "id": "prod-50",
       "name": "Sim Swap Subscriptions",
-      "image": "https://files.slicce.co/Good/Sim%20Swap%20subsciption.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Sim%20Swap%20subsciption.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -503,7 +503,7 @@
     {
       "id": "prod-51",
       "name": "Verified Caller",
-      "image": "https://files.slicce.co/Good/Verified%20Caller.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Verified%20Caller.jpg",
       "category": "API",
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
@@ -513,7 +513,7 @@
     {
       "id": "prod-52",
       "name": "Geofencing Subscriptions",
-      "image": "https://files.slicce.co/Good/Geofencing%20Subscriptions.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Geofencing%20Subscriptions.jpg",
       "category": "API",
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
@@ -523,7 +523,7 @@
     {
       "id": "prod-53",
       "name": "Location Retrieval",
-      "image": "https://files.slicce.co/Good/Location%20Retrieval.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Location%20Retrieval.jpg",
       "category": "API",
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
@@ -533,7 +533,7 @@
     {
       "id": "prod-54",
       "name": "Location Verification",
-      "image": "https://files.slicce.co/Good/Location%20verification.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Location%20verification.jpg",
       "category": "API",
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
@@ -543,7 +543,7 @@
     {
       "id": "prod-55",
       "name": "Population Density Data",
-      "image": "https://files.slicce.co/Good/Population%20Density%20data.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Population%20Density%20data.jpg",
       "category": "API",
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
@@ -553,7 +553,7 @@
     {
       "id": "prod-56",
       "name": "Region Device Count",
-      "image": "https://files.slicce.co/Good/Region%20Device%20Count.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Region%20Device%20Count.jpg",
       "category": "API",
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
@@ -563,7 +563,7 @@
     {
       "id": "prod-57",
       "name": "WebRTC Call Handling",
-      "image": "https://files.slicce.co/Good/WebRTC%20Call%20Handling.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_WebRTC%20Call%20Handling.jpg",
       "category": "API",
       "family": "Communication Services",
       "networks": "4G, 5G",
@@ -573,7 +573,7 @@
     {
       "id": "prod-58",
       "name": "WebRTC Event Subscription",
-      "image": "https://files.slicce.co/Good/WebRTC%20Event%20Subscription.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_WebRTC%20Event%20Subscription.jpg",
       "category": "API",
       "family": "Communication Services",
       "networks": "4G, 5G",
@@ -583,7 +583,7 @@
     {
       "id": "prod-59",
       "name": "WebRTC Registration",
-      "image": "https://files.slicce.co/Good/WebRTC%20Registration.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_WebRTC%20Registration.jpg",
       "category": "API",
       "family": "Communication Services",
       "networks": "4G, 5G",
@@ -593,7 +593,7 @@
     {
       "id": "prod-60",
       "name": "Application Profiles",
-      "image": "https://files.slicce.co/Good/Application%20Profiles.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Application%20Profiles.jpg",
       "category": "API",
       "family": "Communication Quality",
       "networks": "4G, 5G",
@@ -603,7 +603,7 @@
     {
       "id": "prod-61",
       "name": "Connectivity Insights",
-      "image": "https://files.slicce.co/Good/Connectivity%20Insight.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Connectivity%20Insight.jpg",
       "category": "API",
       "family": "Communication Quality",
       "networks": "4G, 5G",
@@ -613,7 +613,7 @@
     {
       "id": "prod-62",
       "name": "Connectivity Insights Subscriptions",
-      "image": "https://files.slicce.co/Good/Connectivity%20Insight%20Subscriptions.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Connectivity%20Insight%20Subscriptions.jpg",
       "category": "API",
       "family": "Communication Quality",
       "networks": "4G, 5G",
@@ -623,7 +623,7 @@
     {
       "id": "prod-63",
       "name": "QoS Profiles",
-      "image": "https://files.slicce.co/Good/QoS%20Profiles.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_QoS%20Profiles.jpg",
       "category": "API",
       "family": "Communication Quality",
       "networks": "4G, 5G",
@@ -633,7 +633,7 @@
     {
       "id": "prod-64",
       "name": "QoS Provisioning",
-      "image": "https://files.slicce.co/Good/QoS%20Provisioning.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_QoS%20Provisioning.jpg",
       "category": "API",
       "family": "Communication Quality",
       "networks": "4G, 5G",
@@ -643,7 +643,7 @@
     {
       "id": "prod-65",
       "name": "Quality on Demand",
-      "image": "https://files.slicce.co/Good/Quality%20on%20Demand.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Quality%20on%20Demand.jpg",
       "category": "API",
       "family": "Communication Quality",
       "networks": "4G, 5G",
@@ -653,7 +653,7 @@
     {
       "id": "prod-66",
       "name": "Connected Network Type",
-      "image": "https://files.slicce.co/Good/Connected%20Network%20Type.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Connected%20Network%20Type.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -663,7 +663,7 @@
     {
       "id": "prod-67",
       "name": "Connected Network Type Subscriptions",
-      "image": "https://files.slicce.co/Good/Connected%20Network%20Type%20Subscription.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Connected%20Network%20Type%20Subscription.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -673,7 +673,7 @@
     {
       "id": "prod-68",
       "name": "Device Identifier",
-      "image": "https://files.slicce.co/Good/Device%20Identifier.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Device%20Identifier.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -683,7 +683,7 @@
     {
       "id": "prod-69",
       "name": "Device Reachability Status",
-      "image": "https://files.slicce.co/Good/Device%20Reachability%20Status.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Device%20Reachability%20Status.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -693,7 +693,7 @@
     {
       "id": "prod-70",
       "name": "Device Reachability Status Subscriptions",
-      "image": "https://files.slicce.co/Good/Device%20Reachability%20Status%20Subscription.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Device%20Reachability%20Status%20Subscription.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -703,7 +703,7 @@
     {
       "id": "prod-71",
       "name": "Device Roaming Status",
-      "image": "https://files.slicce.co/Good/Device%20Roaming%20Status.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Device%20Roaming%20Status.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -713,7 +713,7 @@
     {
       "id": "prod-72",
       "name": "Device Roaming Status Subscriptions",
-      "image": "https://files.slicce.co/Good/Device%20Roaming%20Status%20Subscription.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Device%20Roaming%20Status%20Subscription.jpg",
       "category": "API",
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
@@ -723,7 +723,7 @@
     {
       "id": "prod-73",
       "name": "Simple Edge Discovery",
-      "image": "https://files.slicce.co/Good/Simple%20Edge%20Discovery.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Simple%20Edge%20Discovery.jpg",
       "category": "API",
       "family": "Computing Services",
       "networks": "3G, 4G, 5G",
@@ -733,7 +733,7 @@
     {
       "id": "prod-74",
       "name": "Blockchain Public Address",
-      "image": "https://files.slicce.co/Good/Blockchain%20Public%20Adress.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Blockchain%20Public%20Adress.jpg",
       "category": "API",
       "family": "Payments and Charging",
       "networks": "3G, 4G, 5G",
@@ -743,7 +743,7 @@
     {
       "id": "prod-75",
       "name": "Carrier Billing",
-      "image": "https://files.slicce.co/Good/Carrier%20Billing.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Carrier%20Billing.jpg",
       "category": "API",
       "family": "Payments and Charging",
       "networks": "3G, 4G, 5G",
@@ -753,7 +753,7 @@
     {
       "id": "prod-76",
       "name": "Carrier Billing Refund",
-      "image": "https://files.slicce.co/Good/Carrier%20Billing%20Refund.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Carrier%20Billing%20Refund.jpg",
       "category": "API",
       "family": "Payments and Charging",
       "networks": "3G, 4G, 5G",
@@ -763,7 +763,7 @@
     {
       "id": "prod-77",
       "name": "Caller ID Management",
-      "image": "https://files.slicce.co/Good/Caller%20ID%20Management.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Caller%20ID%20Management.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -773,7 +773,7 @@
     {
       "id": "prod-78",
       "name": "Call Screening",
-      "image": "https://files.slicce.co/Good/Call%20Screening.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Call%20Screening.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -783,7 +783,7 @@
     {
       "id": "prod-79",
       "name": "Short Dial",
-      "image": "https://files.slicce.co/Good/Short%20Dial.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Short%20Dial.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -793,7 +793,7 @@
     {
       "id": "prod-80",
       "name": "Branding",
-      "image": "https://files.slicce.co/Good/Branding.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Branding.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -803,7 +803,7 @@
     {
       "id": "prod-81",
       "name": "Scheduler",
-      "image": "https://files.slicce.co/Good/Scheduler.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Scheduler.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -813,7 +813,7 @@
     {
       "id": "prod-82",
       "name": "SMS to Email",
-      "image": "https://files.slicce.co/Good/SMS%20to%20email.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SMS%20to%20email.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -823,7 +823,7 @@
     {
       "id": "prod-83",
       "name": "Call Transcription",
-      "image": "https://files.slicce.co/Good/Call%20transcription.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Call%20transcription.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -833,7 +833,7 @@
     {
       "id": "prod-84",
       "name": "Missed Call Notifications",
-      "image": "https://files.slicce.co/Good/Missed%20Call%20Notification.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Missed%20Call%20Notification.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -843,7 +843,7 @@
     {
       "id": "prod-85",
       "name": "Multi‑DID",
-      "image": "https://files.slicce.co/Good/Multi-DID.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Multi-DID.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -853,7 +853,7 @@
     {
       "id": "prod-86",
       "name": "Fix Dial",
-      "image": "https://files.slicce.co/Good/Fix%20Dial.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Fix%20Dial.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -863,7 +863,7 @@
     {
       "id": "prod-87",
       "name": "Do Not Disturb",
-      "image": "https://files.slicce.co/Good/Do%20Not%20Disturb.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Do%20Not%20Disturb.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -873,7 +873,7 @@
     {
       "id": "prod-88",
       "name": "Parental Controls",
-      "image": "https://files.slicce.co/Good/Parental%20control.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Parental%20control.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -883,7 +883,7 @@
     {
       "id": "prod-89",
       "name": "Dual‑Profile Mode",
-      "image": "https://files.slicce.co/Good/Dual%E2%80%91Profile%20Mode.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Dual%E2%80%91Profile%20Mode.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -893,7 +893,7 @@
     {
       "id": "prod-90",
       "name": "Emergency Contact Auto‑Alert",
-      "image": "https://files.slicce.co/Good/Emergency%20Contact%20Auto%E2%80%91Alert.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Emergency%20Contact%20Auto%E2%80%91Alert.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -903,7 +903,7 @@
     {
       "id": "prod-91",
       "name": "Spam Call Protection",
-      "image": "https://files.slicce.co/Good/Spam%20Call%20Protection.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Spam%20Call%20Protection.jpg",
       "category": "API",
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
@@ -913,7 +913,7 @@
     {
       "id": "prod-92",
       "name": "Resource Management of Background Data Transfer",
-      "image": "https://files.slicce.co/Good/Resource%20Management%20of%20Background%20Data%20Transfer.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Resource%20Management%20of%20Background%20Data%20Transfer.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -923,7 +923,7 @@
     {
       "id": "prod-93",
       "name": "Communication Patterns Parameters Provisioning",
-      "image": "https://files.slicce.co/Good/Communication%20Patterns%20Parameters%20Provisioning.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Communication%20Patterns%20Parameters%20Provisioning.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -933,7 +933,7 @@
     {
       "id": "prod-94",
       "name": "Packet Flow Description Management",
-      "image": "https://files.slicce.co/Good/Packet%20Flow%20Description%20Management.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Packet%20Flow%20Description%20Management.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -943,7 +943,7 @@
     {
       "id": "prod-95",
       "name": "Enhanced Coverage Restriction Control",
-      "image": "https://files.slicce.co/Good/Enhanced%20Coverage%20Restriction%20Control.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Enhanced%20Coverage%20Restriction%20Control.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -953,7 +953,7 @@
     {
       "id": "prod-96",
       "name": "Network Parameter Configuration",
-      "image": "https://files.slicce.co/Good/Network%20Parameter%20Configuration.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_Network%20Parameter%20Configuration.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -963,7 +963,7 @@
     {
       "id": "prod-97",
       "name": "MSISDN‑less Mobile‑Originated SMS",
-      "image": "https://files.slicce.co/Good/MSISDN%E2%80%91less%20Mobile%E2%80%91Originated%20SMS.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_MSISDN%E2%80%91less%20Mobile%E2%80%91Originated%20SMS.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -973,7 +973,7 @@
     {
       "id": "prod-98",
       "name": "NIDD Configuration Trigger",
-      "image": "https://files.slicce.co/Good/NIDD%20Configuration%20Trigger.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_NIDD%20Configuration%20Trigger.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
@@ -983,7 +983,7 @@
     {
       "id": "prod-99",
       "name": "5G LAN Parameter Provision",
-      "image": "https://files.slicce.co/Good/5G%20LAN%20Parameter%20Provision.jpg",
+      "image": "https://slicce.pages.dev/images/widgets/catalog/Good_5G%20LAN%20Parameter%20Provision.jpg",
       "category": "API",
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
