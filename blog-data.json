@@ -385,13 +385,14 @@
       "title": "Mobile Value-Added Services cost cut",
       "intro": "Cutting the capital and operational expenses of Mobile Value-Added Services by 50% is possible by leveraging cloud computing and 5G technologies to reduce infrastructure and…",
       "body": "<p>Cutting the capital and operational expenses of Mobile Value-Added Services by 50% is possible by leveraging cloud computing and 5G technologies to reduce infrastructure and improve service quality and performance.</p><p>See how we unified Mobile VAS across network generations and ensure lower costs using a microservice architecture here: https://www.slicce.co/use-cases/value-added-services</p>",
-      "image": null,
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/Monolithic.jpg?raw=true",
       "author": "slicce-team",
       "category": "5G & Network APIs",
       "tags": [],
       "featured": false,
       "slug": "mobile-value-added-services-cost-cut",
-      "publishDate": "2023-05-15T00:00:00Z"
+      "publishDate": "2023-05-15T00:00:00Z",
+      "createdAt": "2026-09-01T15:06:43.678Z"
     },
     {
       "id": "5g-northbound-apis-and-machine-type-communications",
