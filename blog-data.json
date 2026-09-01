@@ -9,7 +9,7 @@
       "author": "slicce-team",
       "category": "CAPIF & API Exposure",
       "tags": [],
-      "featured": true,
+      "featured": false,
       "slug": "what-challenges-define-the-modern-telco",
       "publishDate": "2026-01-20T00:00:00Z",
       "createdAt": "2026-08-31T15:06:04.958Z"
@@ -308,7 +308,7 @@
       "author": "slicce-team",
       "category": "Charging & Interworking",
       "tags": [],
-      "featured": false,
+      "featured": true,
       "slug": "all-eyes-on-camara-project-api-families",
       "publishDate": "2023-07-02T00:00:00Z",
       "createdAt": "2026-09-01T14:38:36.190Z"
