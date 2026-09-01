@@ -424,14 +424,15 @@
       "id": "slicce-is-launched",
       "title": "Slicce is launched",
       "intro": "We are excited to introduce Slicce; Self-contained Lightweight Cloud Communication Engines. A platform that enables you to create and deploy microservices for telecom core network…",
-      "body": "<p>We are excited to introduce Slicce; Self-contained Lightweight Cloud Communication Engines. A platform that enables you to create and deploy microservices for telecom core network applications. Slicce&#x27;s communication engines are scalable, secure, and easy to use. You can either use them individually or combine them with others in a workload. Slicce&#x27;s communication engines can help you achieve faster time-to-market, lower operational costs, and better customer experience.</p>",
-      "image": null,
+      "body": "<p>We are excited to introduce Slicce; Self-contained Lightweight Cloud Communication Engines. A platform that enables you to create and deploy microservices for telecom core network applications. Slicce's communication engines are scalable, secure, and easy to use. You can either use them individually or combine them with others in a workload. Slicce's communication engines can help you achieve faster time-to-market, lower operational costs, and better customer experience.</p>",
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/blog_5g-linkedin-post.gif?raw=true",
       "author": "slicce-team",
       "category": "Company News",
       "tags": [],
       "featured": false,
       "slug": "slicce-is-launched",
-      "publishDate": "2023-04-18T00:00:00Z"
+      "publishDate": "2023-04-18T00:00:00Z",
+      "createdAt": "2026-09-01T15:09:20.583Z"
     }
   ],
   "categories": [
