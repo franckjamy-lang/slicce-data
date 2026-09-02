@@ -533,5 +533,29 @@
       "name": "Slicce Team",
       "role": "Editorial Team"
     }
+  ],
+  "tags": [
+    "5G",
+    "4G",
+    "3G",
+    "MTC",
+    "IMS",
+    "VoLTE",
+    "Network Slicing",
+    "Edge Computing",
+    "API",
+    "CAPIF",
+    "NEF",
+    "SCEF",
+    "CAMARA",
+    "GSMA Open Gateway",
+    "3GPP",
+    "RESR API",
+    "Cloud-Native",
+    "Microservices",
+    "Low-Code",
+    "Interworking",
+    "Legacy Migration",
+    "Modernization"
   ]
 }
