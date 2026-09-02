@@ -1,6 +1,27 @@
 {
   "posts": [
     {
+      "id": "post-1788337365843",
+      "title": "Why are telcos accelerating their shift toward cloud‑native and hybrid architectures?",
+      "intro": "The answer is simple: the legacy model can’t keep up with today’s network demands.\n\nTelcos need scalability, automation, and real‑time adaptability to deliver next‑generation services. Cloud‑native architectures bring exactly that—microservices, CI/CD, and elastic infrastructure that evolves at the pace of customer expectations.\n\nBut the real world isn’t “all cloud” or “all on‑prem”. That’s why hybrid models are becoming the new standard. They let operators modernize without disrupting mission‑critical workloads, while optimizing cost, performance, and sovereignty.\n\nAt Slicce, we see this shift every day. Operators want agility without losing control, innovation without compromising reliability. Hybrid cloud‑native architectures are the bridge.\n\nThe telcos that embrace this transformation now will define the competitive landscape of the next decade.",
+      "body": "<span id=\"docs-internal-guid-97e44f74-7fff-d14b-5ded-901a141a785e\"><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">The answer is simple: the legacy model can’t keep up with today’s network demands.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">Telcos need scalability, automation, and real‑time adaptability to deliver next‑generation services. Cloud‑native architectures bring exactly that—microservices, CI/CD, and elastic infrastructure that evolves at the pace of customer expectations.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">But the real world isn’t “all cloud” or “all on‑prem”. That’s why hybrid models are becoming the new standard. They let operators modernize without disrupting mission‑critical workloads, while optimizing cost, performance, and sovereignty.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">At Slicce, we see this shift every day. Operators want agility without losing control, innovation without compromising reliability. Hybrid cloud‑native architectures are the bridge.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">The telcos that embrace this transformation now will define the competitive landscape of the next decade.</span></p><div><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></div></span>",
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/Why%20are%20telcos%20accelerating%20their%20shift%20toward%20cloud%E2%80%91native%20and%20hybrid%20architectures%3F.jpg?raw=true",
+      "author": "slicce-team",
+      "category": "5G & Network APIs",
+      "tags": [
+        "5G",
+        "4G",
+        "3G",
+        "Network Slicing",
+        "Microservices",
+        "Legacy Migration"
+      ],
+      "featured": true,
+      "slug": "why-are-telcos-accelerating-their-shift-toward-cloud-native-and-hybrid-architectures",
+      "publishDate": "2026-06-16T21:00:00.000Z",
+      "createdAt": "2026-09-02T08:22:45.843Z"
+    },
+    {
       "id": "post-1788333604620",
       "title": "From API Exposure to Consumable Network Services",
       "intro": "Over the past few months, I've noticed something interesting in discussions around Network APIs.\n\nMost conversations focus on exposure: how to publish APIs, secure them, standardize them, and make them available to external consumers.\n\nBut very few discussions focus on what happens next.\n\nBecause exposing an API is only the first step.\n\nThe real challenge starts when an enterprise wants to consume that capability.\n\nHow does it discover it?\n\nHow is access controlled?\n\nHow are policies enforced?\n\nHow is usage tracked?\n\nHow is it charged?\n\nThis is where CAPIF (Common API Framework) becomes important.",
@@ -9,7 +30,7 @@
       "author": "slicce-team",
       "category": "CAPIF & API Exposure",
       "tags": [],
-      "featured": true,
+      "featured": false,
       "slug": "from-api-exposure-to-consumable-network-services",
       "publishDate": "2026-06-02T21:00:00.000Z",
       "createdAt": "2026-09-02T07:20:04.620Z"
