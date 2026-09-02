@@ -1,6 +1,25 @@
 {
   "posts": [
     {
+      "id": "post-1788338362527",
+      "title": "𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗣𝗜𝘀 𝗮𝗿𝗲𝗻’𝘁 𝗷𝘂𝘀𝘁 𝗳𝗼𝗿 𝘁𝗲𝗹𝗲𝗰𝗼𝗺 𝗰𝗼𝗺𝗽𝗮𝗻𝗶𝗲𝘀.",
+      "intro": "One misconception still comes up surprisingly often: that telecom APIs are only relevant to mobile operators.\nIn reality, the businesses creating the most value with network capabilities often come from completely different industries. Banks use them to strengthen authentication, digital platforms rely on them to verify phone numbers, and online services leverage them to reduce fraud. Any business that depends on mobile connectivity can benefit from telecom network capabilities.\nAt Slicce, our mission is to make telecom APIs easy to discover, access, and consume. We believe developers should be able to integrate network capabilities without needing deep telecom expertise. And for organizations that want to accelerate adoption, our team can provide guidance from the first API call to production.\nThe more accessible telecom APIs become, the more innovation they will unlock far beyond the telecom industry.",
+      "body": "<span id=\"docs-internal-guid-f805d764-7fff-e207-524a-cc078818f919\"><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">One misconception still comes up surprisingly often: that telecom APIs are only relevant to mobile operators.</span></p><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">In reality, the businesses creating the most value with network capabilities often come from completely different industries. Banks use them to strengthen authentication, digital platforms rely on them to verify phone numbers, and online services leverage them to reduce fraud. Any business that depends on mobile connectivity can benefit from telecom network capabilities.</span></p><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">At Slicce, our mission is to make telecom APIs easy to discover, access, and consume. We believe developers should be able to integrate network capabilities without needing deep telecom expertise. And for organizations that want to accelerate adoption, our team can provide guidance from the first API call to production.</span></p><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 11pt; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">The more accessible telecom APIs become, the more innovation they will unlock far beyond the telecom industry.</span></p><div><span style=\"font-size: 11pt; font-family: &quot;Open Sans&quot;, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></div></span>",
+      "image": "https://github.com/franckjamy-lang/slicce-website/blob/main/public/images/widgets/blog/blog-telecom%20API%20arent%20just.drawio.png?raw=true",
+      "author": "slicce-team",
+      "category": "Legacy Migration & Modernization",
+      "tags": [
+        "5G",
+        "API",
+        "Microservices",
+        "Modernization"
+      ],
+      "featured": true,
+      "slug": "",
+      "publishDate": "2026-07-06T21:00:00.000Z",
+      "createdAt": "2026-09-02T08:39:22.527Z"
+    },
+    {
       "id": "post-1788337365843",
       "title": "Why are telcos accelerating their shift toward cloud‑native and hybrid architectures?",
       "intro": "The answer is simple: the legacy model can’t keep up with today’s network demands.\n\nTelcos need scalability, automation, and real‑time adaptability to deliver next‑generation services. Cloud‑native architectures bring exactly that—microservices, CI/CD, and elastic infrastructure that evolves at the pace of customer expectations.\n\nBut the real world isn’t “all cloud” or “all on‑prem”. That’s why hybrid models are becoming the new standard. They let operators modernize without disrupting mission‑critical workloads, while optimizing cost, performance, and sovereignty.\n\nAt Slicce, we see this shift every day. Operators want agility without losing control, innovation without compromising reliability. Hybrid cloud‑native architectures are the bridge.\n\nThe telcos that embrace this transformation now will define the competitive landscape of the next decade.",
@@ -16,7 +35,7 @@
         "Microservices",
         "Legacy Migration"
       ],
-      "featured": true,
+      "featured": false,
       "slug": "why-are-telcos-accelerating-their-shift-toward-cloud-native-and-hybrid-architectures",
       "publishDate": "2026-06-16T21:00:00.000Z",
       "createdAt": "2026-09-02T08:22:45.843Z"
