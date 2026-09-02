@@ -162,7 +162,9 @@
       "image": "https://slicce.pages.dev/images/widgets/blog/blog_S.L.I.C.C.E%20copy.mp4",
       "author": "slicce-team",
       "category": "Charging & Interworking",
-      "tags": [],
+      "tags": [
+        "Cloud-Native"
+      ],
       "featured": false,
       "slug": "slicce-is-not-just-a-brand-it-s-our-telco-cloud-dna",
       "publishDate": "2025-10-06T00:00:00Z",
