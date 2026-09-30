@@ -8,7 +8,8 @@
       "family": "Network Functions",
       "networks": "3G, 4G, 5G",
       "description": "Common API Framework Core Function, defined by 3GPP, standardizes northbound service APIs by managing invokers, registration, discovery, and access control.",
-      "url": "https://www.slicce.co/products/capif-core-function"
+      "url": "https://www.slicce.co/products/capif-core-function",
+      "visible": true
     },
     {
       "id": "prod-2",
@@ -18,7 +19,8 @@
       "family": "Network Functions",
       "networks": "3G, 4G, 5G",
       "description": "Charging Gateway Function is a central part of 5G offline charging, bridging Charging Data Functions (CDFs) and the billing system.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-3",
@@ -28,7 +30,8 @@
       "family": "Network Functions",
       "networks": "3G, 4G, 5G",
       "description": "A scalable SMS center with a RESTful API for easy integration across GSM, UMTS, 4G, and 5G networks.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-4",
@@ -38,7 +41,8 @@
       "family": "API Exposure Functions",
       "networks": "3G",
       "description": "Supports CAMEL v1–v4 APIs for intelligent legacy mobile services, exposing service control, switching, and specialized resource function APIs.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/cap-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/cap-aef",
+      "visible": true
     },
     {
       "id": "prod-5",
@@ -48,7 +52,8 @@
       "family": "API Exposure Functions",
       "networks": "3G",
       "description": "Exposes GSM-MAP v1–v3 APIs for signaling and mobile app functions like call control and location management within GSM networks.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/map-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/map-aef",
+      "visible": true
     },
     {
       "id": "prod-6",
@@ -58,7 +63,8 @@
       "family": "API Exposure Functions",
       "networks": "3G",
       "description": "Exposes GSM-MAP v1–v3 APIs for USSD, enabling interactive text services on legacy 3G devices.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/ussd-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/ussd-aef",
+      "visible": true
     },
     {
       "id": "prod-7",
@@ -68,7 +74,8 @@
       "family": "API Exposure Functions",
       "networks": "3G",
       "description": "Exposes INAP CS1/CS1+ APIs to enable intelligent services on legacy networks, including control, switching, and specialized resource function APIs.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/inap-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/3g-circuit-switched/inap-aef",
+      "visible": true
     },
     {
       "id": "prod-8",
@@ -78,7 +85,8 @@
       "family": "API Exposure Functions",
       "networks": "4G, 5G",
       "description": "Exposes IMS service control APIs for intelligent IMS and VoLTE services, including Control Function and Media Resource Function APIs.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/4g-packet-switched/isc-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/4g-packet-switched/isc-aef",
+      "visible": true
     },
     {
       "id": "prod-9",
@@ -88,7 +96,8 @@
       "family": "API Exposure Functions",
       "networks": "4G, 5G",
       "description": "Exposes DIAMETER APIs for key interfaces like S6a/S6d, Sh, Cx, and Gy, enabling common applications via REST APIs",
-      "url": "https://www.slicce.co/products/api-exposure-functions/4g-packet-switched/dmt-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/4g-packet-switched/dmt-aef",
+      "visible": true
     },
     {
       "id": "prod-10",
@@ -98,7 +107,8 @@
       "family": "API Exposure Functions",
       "networks": "4G, 5G",
       "description": "Exposes 4G/5G Network Exposure APIs, integrating SCEF and NEF elements to support NIDD, BDT, and Device Triggering.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-11",
@@ -108,7 +118,8 @@
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
       "description": "The Common Data Store AEF provides a common API for application functions and services to store documents in an indexed NOSQL database.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-12",
@@ -118,7 +129,8 @@
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
       "description": "Exposes DIAMETER APIs for Gx, Gy and Ro interfaces and allows implementation of online charging systems and policy charging rules using REST APIs.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-13",
@@ -128,17 +140,19 @@
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
       "description": "Exposes enterprise unified communication APIs to embed voice, messaging and presence services into business applications. Relies on SIP/RTP and SMPP.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/cpaas-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/cpaas-aef",
+      "visible": true
     },
     {
-      "id": "prod-14", 
+      "id": "prod-14",
       "name": "SMS-AEF",
       "image": "https://slicce.pages.dev/images/widgets/catalog/Good_SMS-AEF.jpg",
       "category": "Engine",
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
       "description": "Exposes GSM-MAP v1/v2/v3 APIs, DIAMETER SGd, SIP ISC and SMPP for SMS and allows the implementation of services requiring SMS exchange.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/sms-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/sms-aef",
+      "visible": true
     },
     {
       "id": "prod-15",
@@ -148,7 +162,8 @@
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
       "description": "Mobile Location Center API Exposure Function supports 3G, 4G, and 5G location interfaces, exposing a unified API for handset geolocation.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-16",
@@ -158,7 +173,8 @@
       "family": "API Exposure Functions",
       "networks": "3G, 4G, 5G",
       "description": "Signaling Capture Services AEF enables on-demand network captures, ongoing metrics, KPIs, and CDRs for monitoring functions on a specific worker node.",
-      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/scs-aef"
+      "url": "https://www.slicce.co/products/api-exposure-functions/cross-domain/scs-aef",
+      "visible": true
     },
     {
       "id": "prod-17",
@@ -168,7 +184,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Zero-Code Visual Service Creation lets users build communication services via a drag-and-drop interface—no coding required.",
-      "url": "https://www.slicce.co/products/application-functions/nrd-af"
+      "url": "https://www.slicce.co/products/application-functions/nrd-af",
+      "visible": true
     },
     {
       "id": "prod-18",
@@ -178,7 +195,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Number Translation Service redirects dialed numbers to alternate destinations, allowing flexible routing and easier service access.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-19",
@@ -188,7 +206,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Blacklist/Whitelist lets users control who can contact them by blocking unwanted callers and allowing trusted numbers.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-20",
@@ -198,7 +217,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Optimal Call Routing automatically sends calls to the best destination based on cost, quality, location, or agent availability for efficient service and improved CX",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-21",
@@ -208,7 +228,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Multi Ring: simultaneously rings multiple devices or numbers -such as desk phone, mobile, smartwatch or softphone - so the user never misses an incoming call.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-22",
@@ -218,7 +239,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Multi DID (Direct Inward Dialing) lets users manage multiple numbers on one account, simplifying separation of personal, business, or departmental calls.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-23",
@@ -228,7 +250,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Colored Ringback Tone lets subscribers replace the standard ringing sound with personalized music, tones, or messages.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-24",
@@ -238,7 +261,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Intelligent Call Screening filters incoming calls in real time to block spam, fraud, and unwanted callers, allowing only trusted contacts through.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-25",
@@ -248,7 +272,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Missed Call Notification instantly alerts users of unanswered calls through SMS, email, or app notifications, ensuring no important call goes unnoticed.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-26",
@@ -258,7 +283,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Call Recording and Transcription captures voice calls, stores them securely, and converts speech into searchable text for easy review or delivery to email.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-27",
@@ -268,7 +294,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Virtual Private Network provides secure, encrypted connectivity over public or untrusted networks, allowing users to access enterprise peers using short codes.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-28",
@@ -278,7 +305,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Branded Calling enhances call trust by displaying the business name, logo, and reason for the call on the recipient's phone screen.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-29",
@@ -288,7 +316,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "Automated Call Distribution; automatically routes incoming calls to the most appropriate agent, department, or service based on predefined rules, skills, or availability.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-30",
@@ -298,7 +327,8 @@
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "SMS 2 Email/ VoiceMail 2 Email; converts incoming SMS messages or voicemail messages into emails and delivers them directly to the users while not available.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-31",
@@ -308,7 +338,8 @@
       "family": "Interworking Functions",
       "networks": "3G, 4G, 5G",
       "description": "The Charging Interworking function provides inter-working for 3G/4G/5G online charging interfaces. It can be configured to perform the following conversion scenarios",
-      "url": "https://www.slicce.co/products/interworking-functions/charging-iwf"
+      "url": "https://www.slicce.co/products/interworking-functions/charging-iwf",
+      "visible": true
     },
     {
       "id": "prod-32",
@@ -318,7 +349,8 @@
       "family": "Interworking Functions",
       "networks": "3G, 4G, 5G",
       "description": "The IMS Interworking function connects IMS, VoLTE, VoNR, and 3G CS voice/messaging services, enabling configurable conversion between them.",
-      "url": "https://www.slicce.co/products/interworking-functions/ip-multimedia-iwf"
+      "url": "https://www.slicce.co/products/interworking-functions/ip-multimedia-iwf",
+      "visible": true
     },
     {
       "id": "prod-33",
@@ -328,7 +360,8 @@
       "family": "Interworking Functions",
       "networks": "3G, 4G, 5G",
       "description": "The Short Message Interworking Function converts SMS between 3G, 4G, and 5G networks, and can be configured for various conversion scenarios.",
-      "url": "https://www.slicce.co/products/interworking-functions/short-message-iwf"
+      "url": "https://www.slicce.co/products/interworking-functions/short-message-iwf",
+      "visible": true
     },
     {
       "id": "prod-34",
@@ -338,7 +371,8 @@
       "family": "Load Balancers",
       "networks": "3G",
       "description": "Manages M3UA IPSPs, SGPs, or ASPs, balancing SCCP traffic by GT or SSN. Supports GTT, enabling centralized SIGTRAN entry and traffic distribution across microservices.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-35",
@@ -348,7 +382,8 @@
       "family": "Load Balancers",
       "networks": "4G, 5G",
       "description": "Uses rules to route new SIP sessions, ensures all messages with the same Call-ID go to the same destination, enabling centralized SIP traffic entry and distribution across microservices.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-36",
@@ -358,7 +393,8 @@
       "family": "Load Balancers",
       "networks": "4G, 5G",
       "description": "Uses rules to route initial session requests, ensures messages with the same Session-Id go to the same destination, enabling centralized DIAMETER traffic entry and distribution across DIAMETER microservices.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-37",
@@ -368,7 +404,8 @@
       "family": "Load Balancers",
       "networks": "3G, 4G, 5G",
       "description": "Manages the control plane (GTP-C v1/v2), selecting routes, modifying APN/IMSI, and forwarding session messages to PGW-C or SMF. It rewrites its IP for NAT on the GRX control plane, enabling distributed data sessions to localized PGW-Us or containerized UPFs.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-38",
@@ -378,7 +415,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Call Forwarding Signal\" API provides the API consumer with information about the status of the Call Forwarding Service on a specific phone number. The API consumer invokes the Call Forwarding Signal API to determine if a specific phone number has an active \"call forwarding\" setup, alter or cancel the current call forwarding settings..",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-39",
@@ -388,7 +426,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Customer Insights\" API is designed to provide financial institutions with additional insights into their customers' behavior based on their interactions with telecom operators.\nBy integrating the Customer Insights API, banks can retrieve relevant behavioral data from a customer's telecom provider, allowing them to make more informed decisions when approving microloans or assessing financial risk.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-40",
@@ -398,7 +437,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Device Swap\" API is designed to provide real-time insights into whether a SIM card associated with a user's phone number has been transferred to a different physical device. This API enhances security, fraud detection, and regulatory compliance by offering clear and structured device swap event information.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-41",
@@ -408,7 +448,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Know Your Customer Age Verification\" API is used to validate a user's age based on verified data managed by their Mobile Network Operator (MNO). This API enables digital platforms such as streaming services, gaming sites, online marketplaces, and adult content providers to comply with regulatory requirements while ensuring a seamless and privacy‑compliant user experience.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-42",
@@ -418,7 +459,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Know Your Customer Fill In\" API is used to request and receive information that has been verified by the end user's Mobile Network Operator (MNO) in their KYC records.\nThe information can include phone number, name, postal code, address, birthdate, email address etc",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-43",
@@ -428,7 +470,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Know Your Customer Match\" API provides the ability to compare the information the API customer has for a particular user with that on file (and verified) by the user's Mobile Network Operator (MNO) in their own KYC records.\nThe information can include phone number, name, postal code, address, birthdate, email address etc. No Personal Identifiable Information (PII) is returned.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-44",
@@ -438,7 +481,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Know Your Customer Tenure\" API is designed to verify how long a phone number has been active with a Mobile Network Operator (MNO). By confirming the tenure of a subscription, this API helps assess user reliability, strengthen fraud detection, and support secure onboarding, financial transactions, and authentication processes.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-45",
@@ -448,7 +492,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Number Recycling\" API allows businesses to verify whether a phone number has changed ownership since a given date. This is essential for security-sensitive applications like authentication and customer communication, where ensuring that a phone number still belongs to the intended user is critical.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-46",
@@ -458,7 +503,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Number Verification\" API is used to confirm that a mobile phone number belongs to the user's device, leveraging network or SIM‑based mechanisms. This API simplifies authentication and onboarding by eliminating manual steps such as SMS codes, while enhancing security, fraud prevention, and user experience across industries like banking, e‑commerce, and digital services",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-47",
@@ -468,7 +514,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"One‑Time Password SMS\" API is used to deliver secure, time‑limited codes via SMS in order to provide proof of possession of a mobile phone number. This API strengthens authentication and onboarding by ensuring that the user can be reliably linked to their number, while enhancing security and user experience across digital services.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-48",
@@ -478,7 +525,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Scam Signal\" API is used to detect and block impersonation scams, including Authorized Push Payment (APP) fraud. By leveraging operator network intelligence, this API enables businesses to protect customers in real time, reduce financial losses, and strengthen trust across industries such as banking, e‑commerce, and government services.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-49",
@@ -488,7 +536,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"SIM Swap\" API is used to provide real‑time information on whether a SIM card linked to a user's phone number has recently been replaced. This API enhances fraud detection and regulatory compliance by helping digital services identify potential account takeovers, secure transactions, and protect users against identity theft.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-50",
@@ -498,7 +547,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"SIM Swap Subscriptions\" API is used to subscribe to SIM swap events for mobile phone numbers and receive real-time notifications when a swap occurs. It enables developers to proactively monitor swaps, strengthen security, prevent fraud, and improve user experience during account management and transaction validation. Unlike the Sim Swap API (pull model where information is requested as needed), this API provides push-based updates sent directly to the application when a SIM swap happens..",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-51",
@@ -508,7 +558,8 @@
       "family": "Auth. & Fraud Prevention",
       "networks": "3G, 4G, 5G",
       "description": "The \"Verified Caller\" API is used to display operator‑certified business information, including text or multimedia, on the recipient's phone screen before answering a call. This API helps enterprises reduce fraud, increase call connection rates, and build customer trust across industries such as government, finance, healthcare, logistics, and education.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-52",
@@ -518,7 +569,8 @@
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
       "description": "The \"Geofencing Subscriptions\" API is used to subscribe to location‑based events and receive real‑time notifications when a mobile device enters or leaves predefined geographic areas. This API enables digital services to deliver contextual experiences and support use cases such as logistics tracking, customer engagement, and personalized services.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-53",
@@ -528,7 +580,8 @@
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
       "description": "The \"Location Retrieval\" API is used to obtain the real‑time geographical location of a mobile device based on network information. This API enables digital services to enhance security, support fraud prevention, and deliver location‑based experiences such as emergency response, logistics tracking, and personalized content, while ensuring privacy and regulatory compliance.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-54",
@@ -538,7 +591,8 @@
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
       "description": "The \"Location Verification\" API confirms whether a mobile device is located within a specified geographic area during a given time interval. It enables organizations to validate user presence for secure transactions, access control, and location‑based services, while ensuring privacy through anonymized network data.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-55",
@@ -548,7 +602,8 @@
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
       "description": "The \"Population Density Data\" API provides aggregated information on the concentration of mobile devices within a geographic area during a specific time interval. It enables organizations to understand population distribution and movement patterns, supporting use cases such as emergency response, event planning, retail analysis, and urban development, while ensuring privacy through anonymized data.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-56",
@@ -558,7 +613,8 @@
       "family": "Location Services",
       "networks": "3G, 4G, 5G",
       "description": "The \"Region Device Count\" API retrieves aggregated data on active mobile devices within a defined geographic area during a specific time interval. It helps organizations analyze population distribution, plan resources, and deliver location‑based services while preserving privacy through anonymized data. Typical uses include emergency rescue, estimating audiences for outdoor live streaming, retail foot‑traffic analysis, and urban planning.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-57",
@@ -568,7 +624,8 @@
       "family": "Communication Services",
       "networks": "4G, 5G",
       "description": "The \"WebRTC Call Handling\" API enables applications to create, recover, update, and terminate one‑to‑one voice and video sessions using WebRTC technology. It provides developers with direct control over session lifecycle management, ensuring reliable real‑time communication experiences across web and mobile platforms.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-58",
@@ -578,7 +635,8 @@
       "family": "Communication Services",
       "networks": "4G, 5G",
       "description": "The \"WebRTC Event Subscription\" API allows applications to receive real‑time notifications about session activity, including updates to ongoing calls and requests for new incoming sessions. By subscribing to these events, services can react instantly to changes in communication state, improving responsiveness and user experience.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-59",
@@ -588,7 +646,8 @@
       "family": "Communication Services",
       "networks": "4G, 5G",
       "description": "The \"WebRTC Registration\" API manages client registration and connectivity with the operator's IMS (IP Multimedia Subsystem) network. It ensures that devices are properly authenticated and connected before initiating or receiving audio and video sessions, enabling secure and seamless integration of WebRTC services with telecom infrastructure.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-60",
@@ -598,7 +657,8 @@
       "family": "Communication Quality",
       "networks": "4G, 5G",
       "description": "The \"Application Profiles\" API enables developers to share essential information about their applications that is relevant for network and CAMARA APIs decision-making. Currently, it focuses on defining network quality thresholds and compute resource requirements needed by the application.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-61",
@@ -608,7 +668,8 @@
       "family": "Communication Quality",
       "networks": "4G, 5G",
       "description": "The \"Connectivity Insights\" API provides visibility into current network quality for a given user session. Developers can check if application requirements are met and adapt accordingly—such as lowering video resolution, adjusting game parameters, or requesting a boost via Quality on Demand. It is used in streaming, gaming, remote control systems, and AI video analytics to ensure reliable performance.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-62",
@@ -618,7 +679,8 @@
       "family": "Communication Quality",
       "networks": "4G, 5G",
       "description": "The \"Connectivity Insights Subscriptions\" API extends Connectivity Insights by enabling continuous monitoring through event notifications. Applications receive alerts when network conditions change, allowing real‑time adaptation. This supports scenarios like streaming platforms adjusting quality dynamically, drones or robots adapting control parameters, and surveillance systems maintaining reliable detection.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-63",
@@ -628,7 +690,8 @@
       "family": "Communication Quality",
       "networks": "4G, 5G",
       "description": "The \"QoS Profiles\" API offers predefined sets of network performance characteristics (latency, throughput, priority) identified by unique names. Developers can discover available profiles, retrieve details, and select the right one for their application traffic. Typical uses include industrial IoT, VR/gaming, live streaming, autonomous driving, telemedicine, and VoIP services.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-64",
@@ -638,7 +701,8 @@
       "family": "Communication Quality",
       "networks": "4G, 5G",
       "description": "The \"QoS Provisioning\" API allows developers to assign a specific QoS profile to a device indefinitely. Once provisioned, the network applies the requested profile whenever the device connects, until the provisioning is deleted. It supports scenarios like IoT sensors, VR/gaming, telemedicine, remote work, and autonomous vehicles, ensuring stable latency and prioritized throughput.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-65",
@@ -648,7 +712,8 @@
       "family": "Communication Quality",
       "networks": "4G, 5G",
       "description": "The \"Quality on Demand\" API enables developers to request temporary QoS sessions for specific data flows, ensuring stable latency or prioritized throughput. It abstracts network complexity and supports session creation, querying, deletion, and notifications. Use cases include industrial IoT, immersive gaming, live streaming, telemedicine, VoIP, and enterprise applications requiring high‑quality connectivity.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-66",
@@ -658,7 +723,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Connected Network Type\" API allows applications to query the type of mobile network a device is currently connected to (2G, 3G, 4G, or 5G), along with the time of the last update. This enables real‑time decisions about communication and service delivery. Typical uses include emergency services adapting communication methods, customer support platforms choosing SMS when bandwidth is low, and IoT systems adjusting data transfer frequency.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-67",
@@ -668,7 +734,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Connected Network Type Subscriptions\" API provides real‑time notifications when a device's connectivity changes (e.g., switching between 2G, 3G, 4G, 5G, or UNKNOWN). Instead of polling, applications receive push updates to react instantly. Use cases include emergency services adjusting communication channels, customer support platforms switching to SMS when data drops, and fleet management systems adapting monitoring strategies.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-68",
@@ -678,7 +745,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Device Identifier\" API returns details of the physical mobile device used by a subscriber, including IMEI, IMEI SV, Type Allocation Code, manufacturer, and model. This enables accurate identification for insurance, fraud detection, service optimization, and customer support. It ensures operational efficiency by eliminating manual errors in device information retrieval.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-69",
@@ -688,7 +756,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Device Reachability Status\" API reveals whether a device is reachable via SMS, data, or both. This helps applications decide the best communication method in real time. Use cases include emergency alerts sent via SMS when data is unavailable, customer support ensuring reliable message delivery, and IoT systems switching to low‑bandwidth communication when needed.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-70",
@@ -698,7 +767,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Device Reachability Status Subscriptions\" API notifies applications automatically when a device's reachability changes (e.g., from reachable to unreachable via SMS or data). This eliminates constant polling and ensures timely adaptation. Typical uses include emergency services triggering SMS alerts, customer support platforms adjusting communication channels, and IoT systems modifying reporting frequency.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-71",
@@ -708,7 +778,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Device Roaming Status\" API determines whether a device is roaming on a foreign network and identifies the country. It supports fraud prevention, regulatory compliance, and territorial content restrictions. Use cases include banks verifying transaction locations, streaming services enforcing licensing rules, and advertisers targeting campaigns to authorized regions.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-72",
@@ -718,7 +789,8 @@
       "family": "Device Information",
       "networks": "3G, 4G, 5G",
       "description": "The \"Device Roaming Status Subscriptions\" API delivers push notifications when a device enters or exits roaming, including the current country. This enables real‑time adaptation without repeated queries. Applications use it for fraud detection, content restriction enforcement, and advertising campaigns that adjust automatically to user location.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-73",
@@ -728,7 +800,8 @@
       "family": "Computing Services",
       "networks": "3G, 4G, 5G",
       "description": "The \"Simple Edge Discovery\" API enables applications to identify the closest edge computing location available to a device. By providing information about the optimal edge site, it helps services minimize latency, improve performance, and deliver seamless user experiences. Typical use cases include immersive gaming, augmented and virtual reality, real‑time analytics, and industrial IoT applications that require low‑latency processing.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-74",
@@ -738,7 +811,8 @@
       "family": "Payments and Charging",
       "networks": "3G, 4G, 5G",
       "description": "The \"Blockchain Public Address\" API provides access to the public blockchain address (BPA) associated with a mobile subscriber. It enables applications to integrate telecom identity with blockchain services, supporting use cases such as digital asset management, secure identity verification, and mobile‑based blockchain transactions.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-75",
@@ -748,7 +822,8 @@
       "family": "Payments and Charging",
       "networks": "3G, 4G, 5G",
       "description": "The \"Carrier Billing\" API allows applications to charge purchases directly to a user's mobile phone bill. It simplifies payment flows by leveraging the operator's billing infrastructure, enabling frictionless transactions for digital goods, subscriptions, and in‑app purchases. Typical uses include app stores, streaming services, and online gaming platforms.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-76",
@@ -758,7 +833,8 @@
       "family": "Payments and Charging",
       "networks": "3G, 4G, 5G",
       "description": "The \"Carrier Billing Refund\" API enables applications to process refunds for transactions previously charged via carrier billing. It ensures transparent and secure reversal of charges, improving customer trust and satisfaction. Use cases include subscription cancellations, digital content returns, and error corrections in mobile billing.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-77",
@@ -768,7 +844,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Caller ID Management\" API allows applications to place calls or send SMS messages while presenting a verified business phone number as the calling party identity. It provides a controlled and compliant way for organizations to ensure that outbound communications consistently display their official service number. Typical use cases include customer support lines, delivery notifications, appointment reminders, and any scenario where a unified, trusted business identity is essential.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-78",
@@ -778,7 +855,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Call Screening\" API enables applications to control inbound call permissions by managing whitelists, blacklists, and PIN‑protected access. It allows users or businesses to define which callers are allowed through, which are blocked, and which must authenticate with a PIN before the call is connected. Typical use cases include protecting personal numbers, securing executive or VIP lines, reducing spam, and ensuring that only verified or authorized callers can reach sensitive endpoints.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-79",
@@ -788,7 +866,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Short Dial\" API enables organizations to assign and manage internal short codes that instantly connect callers to company employees or departments. It provides a unified dialing experience across all devices—desk phones, softphones, and mobile apps—allowing users to reach colleagues quickly without remembering full phone numbers. Typical use cases include simplifying internal communication, speeding up support escalation, and improving accessibility to key personnel or teams.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-80",
@@ -798,7 +877,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Branding\" API enables organizations to customize the caller experience by setting branded ringback tones and displaying corporate logos on supported devices whenever calls are made to company phones or customers. It provides a unified, recognizable identity across all inbound interactions, reinforcing brand presence and enhancing customer trust. Typical use cases include customer service hotlines, premium support channels, and corporate communication systems that aim to deliver a consistent, professional brand experience.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-81",
@@ -808,7 +888,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Scheduler\" API enables applications to plan and automate outbound communication campaigns by scheduling batches of short messages or voice calls to targeted devices. It provides precise control over timing, delivery windows, and recipient lists, ensuring that notifications, alerts, reminders, or marketing campaigns are executed reliably and at scale. Typical use cases include appointment reminders, service updates, promotional outreach, and time‑sensitive alerts.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-82",
@@ -818,7 +899,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"SMS to Email\" API forwards incoming text messages to a designated email address whenever a device is unreachable—such as when it is powered off, out of coverage, or otherwise unavailable. It ensures that important communications are never missed by seamlessly delivering SMS content to the user's inbox. Typical use cases include business continuity, travel scenarios, remote field operations, and any situation where reliable message access is essential even without mobile connectivity.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-83",
@@ -828,7 +910,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Call Transcription\" API enables applications to request a full transcription of a completed voice call and automatically deliver a concise call summary to a designated email address. It provides an efficient way to capture key details, decisions, and action items from conversations without manual note‑taking. Typical use cases include customer support documentation, compliance reporting, sales follow‑ups, and operational record‑keeping.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-84",
@@ -838,7 +921,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Missed Call Notifications\" API alerts users whenever an incoming call to their device goes unanswered—whether due to being busy, unavailable, or out of coverage. It ensures important calls are not overlooked by delivering timely notifications through alternative channels such as email, SMS, or app alerts. Typical use cases include business continuity, customer service responsiveness, and personal availability management.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-85",
@@ -848,7 +932,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Multi‑DID\" API enables users to attach multiple phone numbers—often from different countries or regions—to a single mobile device. It provides a unified way to manage international business identities, allowing calls and messages to be sent and received using the appropriate local number without needing multiple SIMs or devices. Typical use cases include multinational operations, regional customer support lines, and professionals who maintain separate numbers for different markets or business functions.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-86",
@@ -858,7 +943,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Fix Dial\" API automatically corrects dialed numbers when users are abroad by converting local-format numbers into the proper international format and resolving home‑network short codes. It ensures that calls connect successfully even when the user forgets country prefixes or dials familiar short numbers that only exist in their domestic network. Typical use cases include international business travel, roaming scenarios, and simplifying dialing behavior for employees who frequently move between countries.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-87",
@@ -868,7 +954,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Do Not Disturb\" API allows users to automatically silence incoming calls and messages during selected times or conditions, while still permitting exceptions for priority contacts or emergency calls. It provides flexible control over availability, helping users avoid interruptions during meetings, rest hours, or personal time. Typical use cases include work‑life balance management, meeting automation, nighttime protection, and creating custom quiet periods across devices.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-88",
@@ -878,7 +965,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Parental Controls\" API enables guardians to manage and restrict how a child's device can place or receive calls and messages. It allows configuration of allowed and blocked numbers, time‑based usage limits, and rules for emergency or priority contacts. This ensures a safer and more controlled communication environment for younger users. Typical use cases include limiting late‑night calls, preventing contact with unknown numbers, and managing device usage during school hours.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-89",
@@ -888,7 +976,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Dual‑Profile Mode\" API allows users to maintain separate communication identities—such as personal and work profiles—on a single device. Each profile can have its own caller ID, voicemail settings, routing rules, and notification preferences, enabling seamless switching between roles without needing multiple phones or SIMs. Typical use cases include professionals balancing business and private life, freelancers managing multiple clients, and users who want clear separation between different communication personas.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-90",
@@ -898,7 +987,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Emergency Contact Auto‑Alert\" API automatically notifies designated contacts whenever a user initiates an emergency call from their device. It sends immediate alerts—via SMS, email, or app notification—containing essential details such as the time and type of emergency action. This ensures that family members, caregivers, or security teams are promptly informed during critical situations. Typical use cases include personal safety, elderly care, lone‑worker protection, and enhanced emergency response coordination.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-91",
@@ -908,7 +998,8 @@
       "family": "Consumer Value Added",
       "networks": "3G, 4G, 5G",
       "description": "The \"Spam Call Protection\" API helps users avoid unwanted or fraudulent calls by filtering inbound traffic based on real‑time reputation scoring, network intelligence, and user‑defined rules. It automatically identifies suspicious callers, blocks high‑risk numbers, and labels uncertain calls with warning indicators. Typical use cases include reducing nuisance calls, protecting users from scams, and enhancing overall communication safety across mobile and fixed devices",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-92",
@@ -918,7 +1009,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"Resource Management of Background Data Transfer\" API enables devices and applications to schedule and optimize non‑urgent data uploads or downloads over 5G networks. It leverages network awareness—such as congestion levels, slice availability, and radio conditions—to allocate resources efficiently and minimize impact on foreground traffic. This allows large or periodic data transfers to occur during optimal network windows, reducing costs and improving battery life. Typical use cases include IoT sensor data uploads, fleet telemetry synchronization, firmware distribution, and any scenario where background data can be intelligently deferred or throttled.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-93",
@@ -928,7 +1020,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"Communication Patterns (CP) Parameters Provisioning\" API allows applications to configure how 5G IoT devices communicate by defining expected traffic behaviors such as message size, frequency, latency tolerance, and burst characteristics. By provisioning these CP parameters, the network can optimize resource allocation, reduce signaling overhead, and ensure predictable performance for massive or periodic M2M workloads. Typical use cases include smart meters, environmental sensors, industrial automation devices, and any IoT deployment where traffic patterns are known in advance and can be efficiently tailored for network efficiency.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-94",
@@ -938,7 +1031,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"Packet Flow Description (PFD) Management\" API allows applications to define and manage detailed traffic signatures that help the 5G core network identify and classify specific application flows. By provisioning PFDs—such as IP ranges, domain names, protocols, and port patterns—the network can apply precise policies for charging, QoS, routing, or security enforcement. This ensures that IoT and M2M services receive the correct treatment based on their traffic characteristics. Typical use cases include differentiating telemetry from control traffic, prioritizing mission‑critical flows, enabling application‑aware charging, and enhancing security through accurate flow detection.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-95",
@@ -948,7 +1042,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"Enhanced Coverage Restriction Control\" API allows operators or applications to manage where specific 5G devices are permitted to attach or operate by enforcing geographic or network‑based coverage restrictions. It enables fine‑grained control over device connectivity—such as limiting service to approved areas, preventing roaming, or restricting access to certain radio layers or cells. This ensures compliance, security, and cost control for sensitive or location‑bound IoT deployments. Typical use cases include logistics asset tracking, private campus networks, regulatory‑restricted devices, and industrial equipment that must remain within defined operational zones.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-96",
@@ -958,7 +1053,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"Network Parameter Configuration\" API enables applications to remotely adjust key connectivity parameters for 5G IoT and M2M devices, such as preferred radio technologies, mobility settings, attach profiles, and network selection behaviors. By fine‑tuning these parameters, operators can optimize device performance for specific environments — whether stationary sensors, mobile assets, or mission‑critical equipment. Typical use cases include configuring devices for private networks, enforcing preferred RAT or band usage, optimizing mobility for fleet devices, and ensuring consistent connectivity across diverse deployment scenarios.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-97",
@@ -968,7 +1064,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"MSISDN‑less Mobile‑Originated SMS\" API enables devices to send SMS messages without requiring an associated MSISDN, relying instead on alternative identifiers such as IMSI, IMEI, or subscription profiles. This is particularly valuable for IoT and M2M deployments where devices need to transmit alerts, telemetry, or status updates but do not require a traditional phone number. It reduces provisioning overhead, simplifies large‑scale device activation, and enhances security by limiting exposure of public identifiers. Typical use cases include utility meters, industrial sensors, asset trackers, and any IoT device that communicates via SMS but does not need a callable identity.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-98",
@@ -978,7 +1075,8 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"NIDD Configuration Trigger\" API enables applications to remotely initiate configuration updates for devices using Non‑IP Data Delivery (NIDD) over 5G or LTE‑M networks. It allows the network to signal devices to adjust parameters such as payload format, reporting intervals, security profiles, or service behavior—without requiring an IP session or continuous connectivity. This ensures efficient, low‑power, and secure management of massive IoT fleets. Typical use cases include updating sensor reporting rules, activating new service profiles, adjusting power‑saving settings, and orchestrating configuration changes for devices deployed in hard‑to‑reach or battery‑sensitive environments.",
-      "url": ""
+      "url": "",
+      "visible": true
     },
     {
       "id": "prod-99",
@@ -988,7 +1086,9 @@
       "family": "Machine 2 Machine",
       "networks": "4G, 5G",
       "description": "The \"5G LAN Parameter Provision\" API enables applications to configure and manage virtual LAN environments over 5G networks, allowing groups of devices to communicate as if they were on the same local network segment. It supports provisioning of parameters such as membership rules, traffic isolation, addressing behavior, and security policies. This creates flexible, software‑defined LANs that span wide geographic areas while maintaining low latency and deterministic performance. Typical use cases include industrial automation cells, collaborative robotics, campus‑wide private networks, and secure group communication for fleets of connected devices.",
-      "url": ""
+      "url": "",
+      "visible": true
     }
-  ]
+  ],
+  "hiddenFamilies": []
 }
