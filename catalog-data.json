@@ -1091,5 +1091,7 @@
     }
   ],
   "hiddenFamilies": [],
-  "hiddenCategories": []
+  "hiddenCategories": [
+    "Engine"
+  ]
 }
