@@ -1,6 +1,37 @@
 {
   "users": [
-    { "firstName": "Franck", "lastName": "Jamy", "email": "franckjamy@slicce.co", "role": "admin" },
-    { "firstName": "Franck", "lastName": "Malka", "email": "fm@slicce.co", "role": "admin" }
+    {
+      "firstName": "Franck",
+      "lastName": "Jamy",
+      "email": "franckjamy@slicce.co",
+      "role": "admin"
+    },
+    {
+      "firstName": "Franck",
+      "lastName": "Malka",
+      "email": "fm@slicce.co",
+      "role": "admin"
+    },
+    {
+      "firstName": "Anne",
+      "lastName": "Malka",
+      "email": "am@slicce.co",
+      "role": "contributor",
+      "articles": {
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "blog": {
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "catalog": {
+        "create": true,
+        "edit": true,
+        "delete": true
+      }
+    }
   ]
 }
