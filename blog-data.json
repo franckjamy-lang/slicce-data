@@ -374,14 +374,15 @@
       "id": "slicce-in-a-nutshell",
       "title": "Slicce in a nutshell",
       "intro": "Video: https://www.youtube.com/embed/k71LhCo3gFc",
-      "body": "<p>Vidéo YouTube (à réintégrer manuellement) : https://www.youtube.com/embed/k71LhCo3gFc</p>",
-      "image": null,
+      "body": "<p><br></p><div class=\"video-embed\" contenteditable=\"false\" style=\"position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5em 0;\"><iframe src=\"https://www.youtube-nocookie.com/embed/k71LhCo3gFc\" title=\"Video\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;border:0;\" allow=\"encrypted-media; picture-in-picture\" allowfullscreen=\"\" loading=\"lazy\"></iframe></div><p><br></p>",
+      "image": "",
       "author": "slicce-team",
       "category": "Company News",
       "tags": [],
       "featured": false,
       "slug": "slicce-in-a-nutshell",
-      "publishDate": "2023-08-20T00:00:00Z"
+      "publishDate": "2023-08-20T00:00:00Z",
+      "createdAt": "2026-10-04T13:37:20.534Z"
     },
     {
       "id": "what-are-key-challenges-of-the-modern-telco-in-today-s-market-dynamics-after-dep",
