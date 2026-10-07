@@ -1088,6 +1088,17 @@
       "description": "The \"5G LAN Parameter Provision\" API enables applications to configure and manage virtual LAN environments over 5G networks, allowing groups of devices to communicate as if they were on the same local network segment. It supports provisioning of parameters such as membership rules, traffic isolation, addressing behavior, and security policies. This creates flexible, software‑defined LANs that span wide geographic areas while maintaining low latency and deterministic performance. Typical use cases include industrial automation cells, collaborative robotics, campus‑wide private networks, and secure group communication for fleets of connected devices.",
       "url": "",
       "visible": true
+    },
+    {
+      "id": "prod-1791381296889",
+      "name": "VMS-AF",
+      "image": "",
+      "category": "API",
+      "family": "Application Functions",
+      "networks": "3G, 4G, 5G",
+      "description": "A carrier-grade voicemail solution is a highly available, scalable telecom core platform that natively integrates with mobile switching and IMS networks to deliver fault-tolerant voice message deposit, retrieval, and visual voicemail services across massive subscriber bases.",
+      "url": "",
+      "visible": true
     }
   ],
   "hiddenFamilies": [],
