@@ -1093,7 +1093,7 @@
       "id": "prod-1791381296889",
       "name": "VMS-AF",
       "image": "",
-      "category": "API",
+      "category": "Engine",
       "family": "Application Functions",
       "networks": "3G, 4G, 5G",
       "description": "A carrier-grade voicemail solution is a highly available, scalable telecom core platform that natively integrates with mobile switching and IMS networks to deliver fault-tolerant voice message deposit, retrieval, and visual voicemail services across massive subscriber bases.",
