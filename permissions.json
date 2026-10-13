@@ -32,6 +32,15 @@
         "edit": true,
         "delete": true
       }
+    },
+    {
+      "firstName": "Harel",
+      "lastName": "MALKA",
+      "email": "harelm58@gmail.com",
+      "role": "contributor",
+      "articles": {},
+      "blog": {},
+      "catalog": {}
     }
   ]
 }
