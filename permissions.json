@@ -11,36 +11,6 @@
       "lastName": "Malka",
       "email": "fm@slicce.co",
       "role": "admin"
-    },
-    {
-      "firstName": "Anne",
-      "lastName": "Malka",
-      "email": "am@slicce.co",
-      "role": "contributor",
-      "articles": {
-        "create": true,
-        "edit": true,
-        "delete": true
-      },
-      "blog": {
-        "create": true,
-        "edit": true,
-        "delete": true
-      },
-      "catalog": {
-        "create": true,
-        "edit": true,
-        "delete": true
-      }
-    },
-    {
-      "firstName": "Harel",
-      "lastName": "MALKA",
-      "email": "harelm58@gmail.com",
-      "role": "contributor",
-      "articles": {},
-      "blog": {},
-      "catalog": {}
     }
   ]
 }
