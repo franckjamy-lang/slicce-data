@@ -11,6 +11,15 @@
       "lastName": "Malka",
       "email": "fm@slicce.co",
       "role": "admin"
+    },
+    {
+      "firstName": "Franck",
+      "lastName": "Perso",
+      "email": "jamyfranck@gmail.com",
+      "role": "admin",
+      "articles": {},
+      "blog": {},
+      "catalog": {}
     }
   ]
 }
