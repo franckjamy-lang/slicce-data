@@ -20,6 +20,15 @@
       "articles": {},
       "blog": {},
       "catalog": {}
+    },
+    {
+      "firstName": "Anne",
+      "lastName": "Malka",
+      "email": "am@slicce.co",
+      "role": "admin",
+      "articles": {},
+      "blog": {},
+      "catalog": {}
     }
   ]
 }
