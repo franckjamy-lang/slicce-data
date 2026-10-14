@@ -11,6 +11,15 @@
       "lastName": "Malka",
       "email": "fm@slicce.co",
       "role": "admin"
+    },
+    {
+      "firstName": "Harel",
+      "lastName": "Malka",
+      "email": "harelm58@gmail.com",
+      "role": "admin",
+      "articles": {},
+      "blog": {},
+      "catalog": {}
     }
   ]
 }
