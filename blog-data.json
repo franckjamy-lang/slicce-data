@@ -1,6 +1,27 @@
 {
   "posts": [
     {
+      "id": "post-1793286974774",
+      "title": "The differences between NEF, CAMARA, GSMA Open Gateway Initiative, and Slicce CAPIF (a cross-generation NEF supporting legacy)",
+      "intro": "In API exposure discussions, NEF, CAMARA, and GSMA Open Gateway often get lumped together as if they do the same job. They don't. They operate at distinct layers of the exposure architecture:\n\n3GPP NEF / CAPIF: The underlying protocol foundation (TS 23.502 / TS 29.522). This is low-level network plumbing designed to expose 5G Core capabilities securely.",
+      "body": "<span id=\"docs-internal-guid-8cc42185-7fff-d53c-d096-f5468af0d1f0\"><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">In API exposure discussions, NEF, CAMARA, and GSMA Open Gateway often get lumped together as if they do the same job. They don't. They operate at distinct layers of the exposure architecture:</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">3GPP NEF / CAPIF: The underlying protocol foundation (TS 23.502 / TS 29.522). This is low-level network plumbing designed to expose 5G Core capabilities securely.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">CAMARA: The API specification layer. It abstracts complex network signaling into standardized RESTful interfaces that enterprise developers can easily consume.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">GSMA Open Gateway: The commercial and federation framework. It defines how operators market, monetize, and distribute those CAMARA APIs consistently across global markets.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">Where standard NEF falls short in real networks:</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">A standard 3GPP NEF assumes a pure 5G standalone core. But operator networks aren't greenfield. They run on a mix of 2G, 3G, 4G, and 5G infrastructure, where critical capabilities are trapped inside legacy protocols—CAP, MAP, Diameter, and SIP.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">This is where Slicce CAPIF fits into the stack.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">Functioning as a cross-generation NEF, Slicce bridges the gap between legacy core signaling and modern exposure frameworks. It ingests legacy interfaces alongside native 5G Service-Based Interfaces (SBI) and exposes them as unified REST APIs via CAPIF, fully ready to align with CAMARA specifications.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">Understanding these boundaries is crucial for operations. A missing network trigger is a core or NEF issue. An inconsistent API payload is a CAMARA issue. Onboarding or aggregation friction is an Open Gateway issue.</span></p><br><p dir=\"ltr\" style=\"line-height:1.3800000000000001;text-align: justify;margin-top:12pt;margin-bottom:12pt;\"><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\">If you don't isolate which layer in the stack is responsible, you can't fix the problem.</span></p><div><span style=\"font-size: 10.5pt; font-family: Roboto, sans-serif; color: rgb(68, 71, 70); background-color: transparent; font-variant: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></div></span>",
+      "image": "https://www.slicce.co/images/widgets/blog/Camara-3gpp-opengateway.png",
+      "author": "slicce-team",
+      "category": "5G & Network APIs",
+      "tags": [
+        "5G",
+        "CAPIF",
+        "CAMARA",
+        "GSMA Open Gateway",
+        "3GPP",
+        "Modernization"
+      ],
+      "featured": true,
+      "slug": "the-differences-between-nef-camara-gsma-open-gateway-initiative-and-slicce-capif-a-cross-generation-nef-supporting-legacy",
+      "publishDate": "2026-10-29T15:16:14.774Z",
+      "createdAt": "2026-10-29T15:16:14.774Z"
+    },
+    {
       "id": "post-1793286679158",
       "title": "Digital Sovereignty: Where Do Your Network Functions Run?",
       "intro": "Not every operator faces a data residency problem.\nBut the ones who do can't afford to get it wrong.\nMost telecom operators are domestic: they serve one country, their infrastructure sits in that country, and their data stays local by default. For them, sovereignty is a non-issue.",
@@ -31,7 +52,7 @@
         "Cloud-Native",
         "Modernization"
       ],
-      "featured": true,
+      "featured": false,
       "slug": "telcos-don-t-have-a-technology-problem-they-have-a-time-to-market-problem",
       "publishDate": "2026-10-14T00:00:00.000Z",
       "createdAt": "2026-10-29T14:05:53.728Z"
